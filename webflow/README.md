@@ -2,10 +2,10 @@
 
 Esta pasta é uma cópia de tudo o que o Webflow guarda do site de pitch da TW, tirada pelo conector do Webflow em **7 de outubro de 2026**, logo depois da publicação das **15:06 (UTC)**.
 
-- **Site oficial:** <https://tw2-accf04.webflow.io> (projeto **TW2** no Webflow)
+- **Endereço antigo:** <https://tw2-accf04.webflow.io> (projeto **TW2** no Webflow)
 - **Página:** Home (a única do site)
 
-É a planta da casa, não a casa: os arquivos descrevem o site por completo, mas **não abrem como página**. O site continua sendo editado e publicado no Webflow. Se esta pasta e o Webflow divergirem, o Webflow vale.
+É a planta da casa, não a casa: os arquivos descrevem o site por completo, mas **não abrem como página**. O site agora vive em código próprio na pasta [`site/`](../site), gerada a partir de [`fonte-do-site/`](../fonte-do-site), e esta pasta fica como registro de onde ele veio.
 
 ## O que tem aqui
 

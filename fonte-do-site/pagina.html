@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{titulo_pagina}}</title>
+<meta name="description" content="{{descricao}}">
+<link rel="canonical" href="{{url_desta}}">
+<link rel="alternate" hreflang="pt-BR" href="{{url_pt}}">
+<link rel="alternate" hreflang="en" href="{{url_en}}">
+<link rel="alternate" hreflang="x-default" href="{{url_pt}}">
+<meta property="og:title" content="{{titulo_pagina}}">
+<meta property="og:description" content="{{descricao}}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="{{og_locale}}">
+<link rel="icon" href="{{raiz}}assets/img/tw-oculos-aro-ouro.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,500;1,400;1,500&family=Bricolage+Grotesque:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="{{raiz}}assets/css/tw.css">
+<script>
+  // Marca que o JS está ativo; se algo falhar, o título aparece mesmo assim.
+  document.documentElement.classList.add('js');
+  setTimeout(function () { document.documentElement.classList.add('pronto'); }, 2500);
+</script>
+</head>
+<body>
+
+<section class="zona is-abismo" aria-label="{{aria_hero}}">
+  <img class="pintura" src="{{raiz}}assets/img/a-queda.jpg" alt="{{alt_queda}}" width="736" height="917" fetchpriority="high">
+  <div class="raio is-r1" aria-hidden="true"></div>
+  <div class="raio is-r2" aria-hidden="true"></div>
+  <div class="raio is-r3" aria-hidden="true"></div>
+  <div class="veu-base" aria-hidden="true"></div>
+  <div class="bolhas" aria-hidden="true"><span class="bolha is-b1"></span><span class="bolha is-b2"></span><span class="bolha is-b3"></span><span class="bolha is-b4"></span><span class="bolha is-b5"></span></div>
+
+  <nav class="nav" aria-label="{{aria_nav}}">
+    <div class="assinatura"><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-ouro.svg" alt="" width="32" height="20"><span class="logo">TW</span></div>
+    <div>
+      <a class="nav-link" href="#pitch">{{nav_pitch}}</a><a class="nav-link" href="#oficio">{{nav_oficio}}</a><a class="nav-link" href="#contato">{{nav_contato}}</a><a class="nav-link is-idioma" href="{{link_pt}}" hreflang="pt-BR" lang="pt-BR" aria-label="Português"{{atual_pt}}>PT</a><a class="nav-link is-idioma" href="{{link_en}}" hreflang="en" lang="en" aria-label="English"{{atual_en}}>EN</a>
+    </div>
+  </nav>
+
+  <div class="hero-copy">
+    <div class="kicker">{{kicker}}</div>
+    <div class="titulo-hero">
+      <p class="frase-fantasma" aria-hidden="true">{{fantasma}}</p>
+      <h1 class="display-1 is-hero">{{h1}}</h1>
+      <div class="pincel-veu" aria-hidden="true"></div>
+    </div>
+    <p class="corpo-l suave">{{subtitulo}}</p>
+    <div class="botoes">
+      <a class="botao-luz" href="#pitch">{{botao_pitch}}<span class="reflexo" aria-hidden="true"></span></a>
+      <a class="botao-nevoa" href="#oficio">{{botao_oficio}}</a>
+    </div>
+  </div>
+</section>
+
+<div class="faixa is-abismo-veu" aria-hidden="true"><div class="nevoa-mancha is-1"></div><div class="nevoa-mancha is-2"></div></div>
+
+<section class="zona is-veu" id="pitch" aria-label="{{aria_pitch}}">
+  <div class="nevoa-mancha is-1" aria-hidden="true"></div>
+  <div class="nevoa-mancha is-2" aria-hidden="true"></div>
+
+  <div class="baralho" data-baralho role="region" aria-roledescription="{{aria_baralho}}" aria-label="{{aria_baralho_label}}" data-aviso="{{aviso_modelo}}">
+    <article class="cartao is-abismo" aria-roledescription="{{aria_cartao}}">
+      <div class="topo"><div class="rotulo">{{c1_rotulo}}</div><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-ouro.svg" alt="" width="32" height="20"></div>
+      <h3 class="titulo-3">{{c1_titulo}}</h3>
+      <p class="corpo suave">{{c1_corpo}}</p>
+      <div class="nevoa-cartao" aria-hidden="true"></div>
+    </article>
+    <article class="cartao is-correnteza" aria-roledescription="{{aria_cartao}}">
+      <div class="topo is-correnteza"><div class="rotulo">{{c2_rotulo}}</div><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-ouro.svg" alt="" width="32" height="20"></div>
+      <h3 class="titulo-3">{{c2_titulo}}</h3>
+      <p class="corpo suave">{{c2_corpo}}</p>
+      <div class="nevoa-cartao" aria-hidden="true"></div>
+    </article>
+    <article class="cartao is-marmore" aria-roledescription="{{aria_cartao}}">
+      <div class="topo"><div class="rotulo">{{c3_rotulo}}</div><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-ouro.svg" alt="" width="32" height="20"></div>
+      <h3 class="titulo-3 com-busto is-grupo">{{c3_titulo}}</h3>
+      <p class="corpo suave com-busto">{{c3_corpo}}</p>
+      <img class="busto" src="{{raiz}}assets/img/busto-tw-luz-baixa.webp" alt="{{alt_busto}}" loading="lazy">
+      <div class="nevoa-cartao" aria-hidden="true"></div>
+    </article>
+    <article class="cartao is-superficie" aria-roledescription="{{aria_cartao}}">
+      <div class="topo"><div class="rotulo">{{c4_rotulo}}</div><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-ouro.svg" alt="" width="32" height="20"></div>
+      <h3 class="titulo-3">{{c4_titulo}}</h3>
+      <p class="corpo suave">{{c4_corpo}}</p>
+      <div class="nevoa-cartao" aria-hidden="true"></div>
+    </article>
+    <article class="cartao is-alto" aria-roledescription="{{aria_cartao}}">
+      <div class="topo"><div class="rotulo">{{c5_rotulo}}</div><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-frio.svg" alt="" width="32" height="20"></div>
+      <h3 class="titulo-3">{{c5_titulo}}</h3>
+      <p class="corpo suave">{{c5_corpo}}</p>
+      <div class="nevoa-cartao" aria-hidden="true"></div>
+    </article>
+    <article class="cartao is-cume" aria-roledescription="{{aria_cartao}}">
+      <div class="topo"><div class="rotulo">{{c6_rotulo}}</div><img class="sinal" src="{{raiz}}assets/img/tw-oculos-aro-frio.svg" alt="" width="32" height="20"></div>
+      <h3 class="titulo-3 com-busto">{{c6_titulo}}</h3>
+      <img class="busto" src="{{raiz}}assets/img/retrato-andrey-tw.webp" alt="{{alt_retrato}}" loading="lazy">
+      <div class="fim">
+        <p class="corpo suave">{{c6_corpo}}</p>
+        <a class="botao-luz" href="tel:+5571991123987">{{botao_contato}}<span class="reflexo" aria-hidden="true"></span></a>
+        <button class="botao-texto" type="button" data-recomecar>{{recomecar}}</button>
+      </div>
+      <div class="nevoa-cartao" aria-hidden="true"></div>
+    </article>
+  </div>
+  <p class="dica">{{dica}}<span class="sr-only" data-baralho-aviso aria-live="polite"></span></p>
+</section>
+
+<div class="faixa is-veu-nevoa" aria-hidden="true"><div class="nevoa-mancha is-1"></div><div class="nevoa-mancha is-2"></div></div>
+
+<section class="zona is-nevoa" id="oficio">
+  <div class="conteudo">
+    <h2 class="display-2">{{oficio_titulo}}</h2>
+    <div class="oficio-grade">
+      <div class="rocha is-bloco"><h3 class="titulo-3">{{o1_titulo}}</h3><p class="corpo">{{o1_corpo}}</p><span class="reflexo" aria-hidden="true"></span></div>
+      <div class="rocha is-bloco"><h3 class="titulo-3">{{o2_titulo}}</h3><p class="corpo">{{o2_corpo}}</p><span class="reflexo" aria-hidden="true"></span></div>
+      <div class="rocha is-bloco"><h3 class="titulo-3">{{o3_titulo}}</h3><p class="corpo">{{o3_corpo}}</p><span class="reflexo" aria-hidden="true"></span></div>
+      <div class="rocha is-bloco"><h3 class="titulo-3">{{o4_titulo}}</h3><p class="corpo">{{o4_corpo}}</p><span class="reflexo" aria-hidden="true"></span></div>
+    </div>
+  </div>
+</section>
+
+<section class="zona is-cume" id="contato">
+  <img class="pintura is-cume" src="{{raiz}}assets/img/friedrich-andarilho-1920.jpg" alt="{{alt_friedrich}}" loading="lazy">
+  <div class="cume-copy">
+    <div class="titulo-hero"><h2 class="display-2">{{cume_titulo}}</h2></div>
+    <p class="corpo-l suave">{{convite}}</p>
+    <div class="botoes"><a class="botao-luz" href="tel:+5571991123987">{{botao_contato}}<span class="reflexo" aria-hidden="true"></span></a></div>
+  </div>
+  <footer class="kicker">2026</footer>
+</section>
+
+<script src="{{raiz}}assets/vendor/gsap/gsap.min.js" defer></script>
+<script src="{{raiz}}assets/vendor/gsap/ScrollTrigger.min.js" defer></script>
+<script src="{{raiz}}assets/vendor/gsap/SplitText.min.js" defer></script>
+<script src="{{raiz}}assets/js/tw.js" defer></script>
+</body>
+</html>
