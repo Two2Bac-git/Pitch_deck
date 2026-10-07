@@ -1,0 +1,195 @@
+/* TW · página de pitch. Transcrito dos estilos do Webflow (webflow/estilos.json) e do plano §7 (baralho). */
+
+/* ---------- Tokens ---------- */
+:root {
+  /* Primitivos */
+  --frio-950: #0e0910;
+  --frio-900: #171119;
+  --frio-800: #211a22;
+  --frio-700: #312b34;
+  --frio-600: #4f4b55;
+  --frio-500: #72707b;
+  --frio-400: #91919d;
+  --frio-300: #afb0bd;
+  --frio-200: #cdd0dd;
+  --frio-100: #e5e7ef;
+  --frio-50: #f4f5f9;
+  --ouro-600: #be781d;
+  --ouro-500: #bd9952;
+  --linho: #cdbda6;
+  --marmore: #dcd8cf;
+  --teal-abismo: #2f4f58;
+  --serif: 'Bodoni Moda', 'Didot', 'Bodoni 72', Georgia, serif;
+  --sans: 'Bricolage Grotesque', system-ui, sans-serif;
+
+  /* Semântico (mode base = Abismo) */
+  --fundo: var(--frio-950);
+  --texto: var(--frio-50);
+  --texto-suave: var(--frio-400);
+  --prova: var(--ouro-500);
+
+  /* Medidas (Desktop) */
+  --display-1: 112px;
+  --display-2: 72px;
+  --titulo-3: 40px;
+  --numero: 120px;
+  --corpo-l: 20px;
+  --corpo: 17px;
+  --espaco-secao: 160px;
+  --cartao-pad: 48px;
+
+  /* Movimento */
+  --ease-nevoa: cubic-bezier(.16, 1, .3, 1);
+  --ease-pincel: cubic-bezier(.7, 0, .2, 1);
+}
+
+/* Medidas: modes Tablet e Mobile */
+@media (max-width: 991px) {
+  :root { --display-1: 72px; --display-2: 52px; --titulo-3: 32px; --numero: 88px; --corpo-l: 19px; --corpo: 16px; --espaco-secao: 112px; --cartao-pad: 36px; }
+}
+@media (max-width: 767px) {
+  :root { --display-1: 44px; --display-2: 36px; --titulo-3: 26px; --numero: 56px; --corpo-l: 18px; --corpo: 16px; --espaco-secao: 72px; --cartao-pad: 24px; }
+}
+
+/* Modes de altitude (coleção Semântico) */
+.is-abismo     { --fundo: var(--frio-950); --texto: var(--frio-50);  --texto-suave: var(--frio-400); --prova: var(--ouro-500); }
+.is-correnteza { --fundo: var(--frio-900); --texto: var(--frio-100); --texto-suave: var(--frio-400); --prova: var(--ouro-500); }
+.is-marmore    { --fundo: var(--frio-800); --texto: var(--frio-100); --texto-suave: var(--frio-400); --prova: var(--ouro-500); }
+.is-superficie { --fundo: var(--frio-700); --texto: var(--frio-100); --texto-suave: var(--frio-300); --prova: var(--ouro-500); }
+.is-veu        { --fundo: var(--frio-600); --texto: var(--frio-50);  --texto-suave: var(--frio-100); --prova: var(--frio-50); }
+.is-nevoa      { --fundo: var(--frio-300); --texto: var(--frio-900); --texto-suave: var(--frio-700); --prova: var(--frio-900); }
+.is-alto       { --fundo: var(--frio-200); --texto: var(--frio-900); --texto-suave: var(--frio-700); --prova: var(--frio-900); }
+.is-cume       { --fundo: var(--frio-50);  --texto: var(--frio-900); --texto-suave: var(--frio-700); --prova: var(--frio-900); }
+
+/* ---------- Base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; min-height: 100%; background-color: var(--frio-950); font-family: var(--sans); color: #333; font-size: 14px; line-height: 20px; }
+h1, h2, h3, p { margin: 0; }
+img { max-width: 100%; vertical-align: middle; display: inline-block; border: 0; }
+a { background-color: transparent; color: inherit; }
+button { font: inherit; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+:focus-visible { outline: 2px solid var(--ouro-500); outline-offset: 3px; }
+
+/* ---------- Zonas e faixas ---------- */
+.zona { position: relative; padding-top: var(--espaco-secao); padding-bottom: var(--espaco-secao); background-color: var(--fundo); color: var(--texto); }
+.zona.is-abismo { display: flex; flex-direction: column; overflow: hidden; min-height: 100vh; padding: 20px 28px 44px; }
+.zona.is-veu { display: flex; flex-direction: column; justify-content: center; align-items: center; row-gap: 20px; overflow: hidden; min-height: 100vh; padding-left: 16px; padding-right: 16px; }
+.zona.is-nevoa { padding-left: 28px; padding-right: 28px; background-image: linear-gradient(180deg, #afb0bd 0%, #afb0bd 70%, #cdd0dd 100%); }
+.zona.is-cume { display: flex; flex-direction: column; overflow: hidden; min-height: 70vh; padding-left: 28px; padding-right: 28px; background-image: linear-gradient(90deg, #cdd0dd 0 45%, #b9c2d4 100%); }
+
+.faixa { position: relative; overflow: hidden; height: 30vh; }
+.faixa.is-abismo-veu { background-image: linear-gradient(180deg, #0e0910, #4f4b55); }
+.faixa.is-veu-nevoa { background-image: linear-gradient(180deg, #4f4b55, #afb0bd); }
+
+.nevoa-mancha { position: absolute; left: -12%; top: -12%; right: -12%; bottom: -12%; pointer-events: none; }
+.nevoa-mancha.is-1 { background-image: radial-gradient(40% 38% at 25% 30%, rgba(145, 145, 157, .55), transparent 70%); }
+.nevoa-mancha.is-2 { background-image: radial-gradient(38% 42% at 78% 70%, rgba(114, 112, 123, .55), transparent 70%); }
+
+.conteudo { position: relative; z-index: 1; width: 100%; max-width: 760px; margin-left: auto; margin-right: auto; }
+
+/* ---------- Hero (Abismo) ---------- */
+.pintura { position: absolute; top: -12%; right: 0; bottom: auto; width: 45%; height: 124%; max-width: none; pointer-events: none; object-fit: cover;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 45%); mask-image: linear-gradient(90deg, transparent 0, #000 45%); }
+.pintura.is-cume { -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 40%); mask-image: linear-gradient(90deg, transparent 0, #000 40%); }
+
+.raio { position: absolute; top: -20%; height: 140%; background-image: radial-gradient(50% 70% at 50% 0%, rgba(205, 208, 221, .5), transparent 75%); pointer-events: none; }
+.raio.is-r1 { left: 60.4%; width: 8.1%; }
+.raio.is-r2 { left: 74.8%; width: 4.5%; opacity: .7; }
+.raio.is-r3 { left: 85.6%; width: 6.3%; opacity: .5; }
+
+.veu-base { position: absolute; left: 0; right: 0; bottom: 0; height: 30%; background-image: linear-gradient(0deg, #0e0910 0%, rgba(14, 9, 16, 0) 100%); pointer-events: none; }
+
+.bolhas { position: absolute; right: 0; bottom: 0; overflow: hidden; width: 45%; height: 260px; pointer-events: none;
+  -webkit-mask-image: linear-gradient(0deg, transparent 0%, #000 20%, #000 60%, transparent 100%); mask-image: linear-gradient(0deg, transparent 0%, #000 20%, #000 60%, transparent 100%); }
+.bolha { position: absolute; bottom: -6px; width: 3px; height: 3px; border-radius: 50%; background-color: var(--frio-100); opacity: .55; }
+.bolha.is-b1 { left: 20%; } .bolha.is-b2 { left: 35%; } .bolha.is-b3 { left: 58%; } .bolha.is-b4 { left: 76%; } .bolha.is-b5 { left: 48%; }
+
+.nav { position: relative; z-index: 1; display: flex; justify-content: space-between; align-items: center; font-family: var(--sans); color: var(--texto-suave); font-size: 13px; line-height: 1.4; font-weight: 500; }
+.assinatura { display: flex; align-items: center; column-gap: 12px; }
+.sinal { width: 26px; height: auto; }
+.logo { font-family: var(--serif); color: var(--texto); font-size: 28px; line-height: 1; font-style: italic; font-weight: 500; }
+.nav-link { margin-left: 18px; color: var(--texto-suave); text-decoration: none; }
+.nav-link:hover { color: var(--texto); }
+.nav-link.is-idioma { margin-left: 40px; }
+.nav-link.is-idioma + .nav-link.is-idioma { margin-left: 12px; }
+.nav-link[aria-current="page"] { color: var(--texto); }
+
+.hero-copy { position: relative; z-index: 1; margin-top: auto; max-width: min(520px, 48%); }
+.kicker { font-family: var(--sans); color: var(--texto-suave); font-size: 13px; line-height: 1.4; font-weight: 500; }
+.titulo-hero { position: relative; display: grid; overflow: hidden; margin: 10px 0 16px; padding: 4px 0; grid-template-columns: 1fr; grid-template-rows: auto; min-width: min-content; }
+.frase-fantasma { margin: 0; opacity: 0; font-family: var(--serif); color: var(--frio-400); font-size: var(--display-1); line-height: 1; font-style: italic; font-weight: 400; grid-area: 1 / 1 / -1 / -1; }
+.display-1 { font-family: var(--serif); font-size: var(--display-1); line-height: 1; font-weight: 400; }
+.display-1.is-hero { margin: 0; grid-area: 1 / 1 / -1 / -1; }
+.pincel-veu { position: absolute; left: -60px; top: -24px; right: -60px; bottom: -24px; background-color: var(--frio-950); opacity: 0; pointer-events: none; }
+.corpo-l { font-family: var(--sans); font-size: var(--corpo-l); line-height: 1.5; font-weight: 400; }
+.corpo-l.suave { max-width: 46ch; margin: 0; color: var(--texto-suave); }
+
+/* ---------- Botões ---------- */
+.botoes { display: flex; margin-top: 22px; flex-wrap: wrap; gap: 10px; }
+.botao-luz, .botao-nevoa { position: relative; overflow: hidden; display: inline-block; padding: 11px 22px; border-radius: 999px; font-family: var(--sans); font-size: 14px; line-height: 1.4; text-decoration: none; }
+.botao-luz { background-color: var(--ouro-500); color: var(--frio-900); font-weight: 600; }
+.botao-nevoa { background-color: rgba(244, 245, 249, .08); color: var(--frio-100); font-weight: 400; }
+.botao-texto { padding: 11px 0; border: 0; background-color: transparent; font-family: var(--sans); color: var(--texto); font-size: 13px; line-height: 1.4; font-weight: 500; text-decoration: underline; cursor: pointer; }
+.reflexo { position: absolute; left: 0; top: 0; right: 0; bottom: 0; background-image: linear-gradient(105deg, transparent 38%, rgba(244, 245, 249, .95) 50%, transparent 62%); opacity: 0; pointer-events: none; }
+
+/* ---------- Sala do pitch: baralho ---------- */
+.baralho { position: relative; display: grid; width: 100%; max-width: 760px; grid-template-columns: 1fr; grid-template-rows: auto; }
+.cartao { position: relative; display: flex; flex-direction: column; justify-content: space-between; gap: 14px; overflow: hidden; min-height: clamp(380px, 52vw, 470px); padding: var(--cartao-pad);
+  border-radius: 2px; background-color: var(--fundo); box-shadow: 0 24px 64px -24px rgba(14, 9, 16, .6); color: var(--texto); cursor: pointer; grid-area: 1 / 1 / -1 / -1; }
+.cartao.is-correnteza { background-image: radial-gradient(120% 90% at 50% -25%, rgba(47, 79, 88, .9), transparent 60%); }
+.nevoa-cartao { position: absolute; left: 0; top: 0; right: 0; bottom: 0; z-index: 2; background-color: var(--frio-200); opacity: 0; pointer-events: none; }
+
+/* Profundidade (plano §3/§7): a ordem no DOM é o estado; o primeiro filho é o cartão da frente. */
+.baralho > .cartao { transition: transform .9s var(--ease-nevoa), opacity .9s var(--ease-nevoa); }
+.baralho > .cartao .nevoa-cartao { transition: opacity .9s var(--ease-nevoa); }
+.baralho > :nth-child(1) { z-index: 3; }
+.baralho > :nth-child(2) { z-index: 2; transform: translateY(-5%) scale(.95); }
+.baralho > :nth-child(2) .nevoa-cartao { opacity: .18; }
+.baralho > :nth-child(3) { z-index: 1; transform: translateY(-10%) scale(.9); }
+.baralho > :nth-child(3) .nevoa-cartao { opacity: .36; }
+.baralho > :nth-child(n+4) { opacity: 0; pointer-events: none; transform: translateY(-14%) scale(.86); }
+.baralho > :nth-child(n+4) .nevoa-cartao { opacity: .36; }
+.baralho > .cartao.sai { transform: translateY(35%); opacity: 0; transition-timing-function: var(--ease-pincel); }
+@media (prefers-reduced-motion: reduce) {
+  .baralho > .cartao, .baralho > .cartao .nevoa-cartao { transition: opacity .2s; }
+  .baralho > .cartao.sai { transform: none; }
+}
+
+.topo { position: relative; z-index: 1; display: flex; justify-content: space-between; align-items: center; color: var(--texto-suave); column-gap: 12px; }
+.topo.is-correnteza { color: var(--frio-100); }
+.rotulo { font-family: var(--sans); font-size: 13px; line-height: 1.4; font-weight: 500; }
+.titulo-3 { margin: 0; font-family: var(--serif); font-size: var(--titulo-3); line-height: 1.1; font-weight: 500; }
+.titulo-3.com-busto { position: relative; z-index: 1; max-width: 58%; }
+.titulo-3.com-busto.is-grupo { margin-top: auto; }
+.corpo { max-width: 60ch; margin: 0; font-family: var(--sans); font-size: var(--corpo); line-height: 1.55; font-weight: 400; }
+.corpo.suave { position: relative; z-index: 1; color: var(--texto-suave); }
+.corpo.suave.com-busto { max-width: 58%; margin-bottom: auto; }
+.ouro { color: var(--ouro-500); }
+.busto { position: absolute; right: 4%; bottom: 0; width: auto; height: 78%; max-width: none; pointer-events: none; }
+.fim { position: relative; z-index: 1; display: flex; max-width: 58%; justify-content: space-between; flex-wrap: wrap; align-items: flex-end; gap: 12px; }
+.dica { position: relative; margin: 0; font-family: var(--sans); font-size: 13px; line-height: 1.4; font-weight: 500; }
+
+/* ---------- Ofício (Névoa) ---------- */
+.display-2 { margin: 0; font-family: var(--serif); font-size: var(--display-2); line-height: 1.05; font-weight: 400; }
+.oficio-grade { display: grid; margin-top: 48px; grid-template-columns: 1fr 1fr; gap: 24px; }
+.rocha { position: relative; overflow: hidden; min-width: 140px; padding: 10px 14px; border-radius: 2px; background-color: var(--frio-900); box-shadow: 0 24px 64px -24px rgba(14, 9, 16, .6); color: var(--frio-100); }
+.rocha.is-bloco { display: flex; flex-direction: column; padding: 24px; row-gap: 12px; }
+
+/* ---------- Cume ---------- */
+.cume-copy { position: relative; z-index: 1; margin-top: auto; margin-bottom: auto; max-width: min(520px, 48%); }
+
+/* ---------- Celular ---------- */
+@media (max-width: 767px) {
+  .pintura, .raio, .bolhas, .busto { display: none; }
+  .hero-copy, .cume-copy, .fim { max-width: 100%; }
+  .titulo-3.com-busto { max-width: none; }
+  .oficio-grade { grid-template-columns: 1fr; }
+  .nav-link { margin-left: 12px; }
+  .nav-link.is-idioma { margin-left: 24px; }
+}
+
+/* Enquanto o JS prepara a abertura, o título não pisca */
+.js .display-1.is-hero { visibility: hidden; }
+.js.pronto .display-1.is-hero, .sem-movimento .display-1.is-hero { visibility: visible; }
