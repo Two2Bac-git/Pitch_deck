@@ -1,0 +1,2815 @@
+{
+  "id": {
+    "component": "6ac51aba0b441e87266dd191",
+    "element": "6ac51aba0b441e87266dd196"
+  },
+  "type": "Body",
+  "children": [
+    {
+      "id": {
+        "component": "6ac51aba0b441e87266dd191",
+        "element": "52fd0632-dc89-a41e-64e7-ad41d99a133a"
+      },
+      "type": "Section",
+      "styleNames": [
+        "zona",
+        "is-abismo"
+      ],
+      "settings": {
+        "tag": "section",
+        "visibility": true
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "8a566020-03ba-83ef-2d84-65f48d696506"
+          },
+          "type": "Image",
+          "styleNames": [
+            "pintura"
+          ],
+          "settings": {
+            "visibility": true,
+            "assetId": "6ac5555d910e58ce4d85efd9",
+            "altText": "A Queda: figura de camisa clara caindo na água teal, com luz vinda de cima"
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "9e9df9d9-1665-769e-5f79-547d4748f724"
+          },
+          "type": "Block",
+          "styleNames": [
+            "raio",
+            "is-r1"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "65873fd7-c4a8-2291-d976-9ffd45cb725a"
+          },
+          "type": "Block",
+          "styleNames": [
+            "raio",
+            "is-r2"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "d3830392-0911-73df-3fd1-0b4747e99d1f"
+          },
+          "type": "Block",
+          "styleNames": [
+            "raio",
+            "is-r3"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "04d0de1f-926a-965f-6f67-d152825306d0"
+          },
+          "type": "Block",
+          "styleNames": [
+            "veu-base"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "6333e5e9-630a-d9ec-1481-d0f0f0cad079"
+          },
+          "type": "Block",
+          "styleNames": [
+            "bolhas"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "6333e5e9-630a-d9ec-1481-d0f0f0cad074"
+              },
+              "type": "Span",
+              "styleNames": [
+                "bolha",
+                "is-b1"
+              ],
+              "settings": {
+                "visibility": true
+              }
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "6333e5e9-630a-d9ec-1481-d0f0f0cad075"
+              },
+              "type": "Span",
+              "styleNames": [
+                "bolha",
+                "is-b2"
+              ],
+              "settings": {
+                "visibility": true
+              }
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "6333e5e9-630a-d9ec-1481-d0f0f0cad076"
+              },
+              "type": "Span",
+              "styleNames": [
+                "bolha",
+                "is-b3"
+              ],
+              "settings": {
+                "visibility": true
+              }
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "6333e5e9-630a-d9ec-1481-d0f0f0cad077"
+              },
+              "type": "Span",
+              "styleNames": [
+                "bolha",
+                "is-b4"
+              ],
+              "settings": {
+                "visibility": true
+              }
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "6333e5e9-630a-d9ec-1481-d0f0f0cad078"
+              },
+              "type": "Span",
+              "styleNames": [
+                "bolha",
+                "is-b5"
+              ],
+              "settings": {
+                "visibility": true
+              }
+            }
+          ]
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "52fd0632-dc89-a41e-64e7-ad41d99a1327"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nav"
+          ],
+          "settings": {
+            "tag": "nav",
+            "visibility": true,
+            "block": {
+              "tag": "nav"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "52fd0632-dc89-a41e-64e7-ad41d99a131f"
+              },
+              "type": "Block",
+              "styleNames": [
+                "assinatura"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "c7e75ac5-1f90-d809-e793-25bd1c6d34cc"
+                  },
+                  "type": "Image",
+                  "styleNames": [
+                    "sinal"
+                  ],
+                  "settings": {
+                    "visibility": true,
+                    "assetId": "6ac522a3b40d2b8ad9f8604c"
+                  }
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a131e"
+                  },
+                  "type": "Span",
+                  "styleNames": [
+                    "logo"
+                  ],
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a131d"
+                      },
+                      "type": "String",
+                      "textContent": "TW"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "52fd0632-dc89-a41e-64e7-ad41d99a1326"
+              },
+              "type": "Block",
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1321"
+                  },
+                  "type": "Link",
+                  "styleNames": [
+                    "nav-link"
+                  ],
+                  "attributes": {
+                    "href": "#pitch"
+                  },
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a1320"
+                      },
+                      "type": "String",
+                      "textContent": "Pitch"
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1323"
+                  },
+                  "type": "Link",
+                  "styleNames": [
+                    "nav-link"
+                  ],
+                  "attributes": {
+                    "href": "#oficio"
+                  },
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a1322"
+                      },
+                      "type": "String",
+                      "textContent": "Ofício"
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1325"
+                  },
+                  "type": "Link",
+                  "styleNames": [
+                    "nav-link"
+                  ],
+                  "attributes": {
+                    "href": "#contato"
+                  },
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a1324"
+                      },
+                      "type": "String",
+                      "textContent": "Contato"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "52fd0632-dc89-a41e-64e7-ad41d99a1339"
+          },
+          "type": "Block",
+          "styleNames": [
+            "hero-copy"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "52fd0632-dc89-a41e-64e7-ad41d99a1329"
+              },
+              "type": "Block",
+              "styleNames": [
+                "kicker"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1328"
+                  },
+                  "type": "String",
+                  "textContent": "Superteam | Colosseum 2026"
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "52fd0632-dc89-a41e-64e7-ad41d99a1331"
+              },
+              "type": "Block",
+              "styleNames": [
+                "titulo-hero"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a132b"
+                  },
+                  "type": "Paragraph",
+                  "styleNames": [
+                    "frase-fantasma"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a132a"
+                      },
+                      "type": "String",
+                      "textContent": "“Tá sem grana?”"
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a132f"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "display-1",
+                    "is-hero"
+                  ],
+                  "settings": {
+                    "tag": "h1",
+                    "visibility": true,
+                    "headingLevel": 1
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a132c"
+                      },
+                      "type": "String",
+                      "textContent": "Edtech "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a132e"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "52fd0632-dc89-a41e-64e7-ad41d99a132d"
+                          },
+                          "type": "String",
+                          "textContent": "à Renascença."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1330"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "pincel-veu"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "52fd0632-dc89-a41e-64e7-ad41d99a1333"
+              },
+              "type": "Paragraph",
+              "styleNames": [
+                "corpo-l",
+                "suave"
+              ],
+              "settings": {
+                "visibility": true
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1332"
+                  },
+                  "type": "String",
+                  "textContent": "Para economizar no bolso de seus gastos mensais: uma tecnologia em infra agêntica, adequando sua operação à criação e à inovação. Por isso, a Renascença."
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "52fd0632-dc89-a41e-64e7-ad41d99a1338"
+              },
+              "type": "Block",
+              "styleNames": [
+                "botoes"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1335"
+                  },
+                  "type": "Link",
+                  "styleNames": [
+                    "botao-luz"
+                  ],
+                  "attributes": {
+                    "href": "#pitch"
+                  },
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a1334"
+                      },
+                      "type": "String",
+                      "textContent": "Abrir o pitch"
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "1ed90a04-c5dd-f37e-a127-963e003977ed"
+                      },
+                      "type": "DOM",
+                      "styleNames": [
+                        "reflexo"
+                      ],
+                      "attributes": {
+                        "aria-hidden": "true"
+                      },
+                      "settings": {
+                        "tag": "span",
+                        "visibility": true,
+                        "dom": {
+                          "tag": "span"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "52fd0632-dc89-a41e-64e7-ad41d99a1337"
+                  },
+                  "type": "Link",
+                  "styleNames": [
+                    "botao-nevoa"
+                  ],
+                  "attributes": {
+                    "href": "#oficio"
+                  },
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "52fd0632-dc89-a41e-64e7-ad41d99a1336"
+                      },
+                      "type": "String",
+                      "textContent": "Ver como foi feito"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": {
+        "component": "6ac51aba0b441e87266dd191",
+        "element": "5ed9e883-6623-b0b5-b5c1-15451f1c27dc"
+      },
+      "type": "Block",
+      "styleNames": [
+        "faixa",
+        "is-abismo-veu"
+      ],
+      "attributes": {
+        "aria-hidden": "true"
+      },
+      "settings": {
+        "tag": "div",
+        "visibility": true,
+        "block": {
+          "tag": "div"
+        }
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "5ed9e883-6623-b0b5-b5c1-15451f1c27da"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nevoa-mancha",
+            "is-1"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "5ed9e883-6623-b0b5-b5c1-15451f1c27db"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nevoa-mancha",
+            "is-2"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": {
+        "component": "6ac51aba0b441e87266dd191",
+        "element": "399fe837-6072-c50a-10b4-1faa2c382b36"
+      },
+      "type": "Block",
+      "styleNames": [
+        "zona",
+        "is-veu"
+      ],
+      "attributes": {
+        "id": "pitch"
+      },
+      "settings": {
+        "tag": "section",
+        "visibility": true,
+        "block": {
+          "tag": "section"
+        }
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "9acec3c1-4942-3dbf-bd1d-f847b6c17f06"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nevoa-mancha",
+            "is-1"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "0a6b3719-3c04-b047-f529-8f39dce9c65a"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nevoa-mancha",
+            "is-2"
+          ],
+          "attributes": {
+            "aria-hidden": "true"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "fffc0056-a8fc-2c81-90df-4aab16fdd13c"
+          },
+          "type": "Block",
+          "styleNames": [
+            "baralho"
+          ],
+          "attributes": {
+            "data-baralho": "",
+            "role": "region",
+            "aria-roledescription": "baralho",
+            "aria-label": "Pitch da TW em 6 cartões"
+          },
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "43fd7dba-9b4b-367d-6679-2f5b745f452d"
+              },
+              "type": "Block",
+              "styleNames": [
+                "cartao",
+                "is-abismo"
+              ],
+              "attributes": {
+                "aria-roledescription": "cartão"
+              },
+              "settings": {
+                "tag": "article",
+                "visibility": true,
+                "block": {
+                  "tag": "article"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "43fd7dba-9b4b-367d-6679-2f5b745f4527"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "topo"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "43fd7dba-9b4b-367d-6679-2f5b745f4526"
+                      },
+                      "type": "Block",
+                      "styleNames": [
+                        "rotulo"
+                      ],
+                      "settings": {
+                        "tag": "div",
+                        "visibility": true,
+                        "block": {
+                          "tag": "div"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "43fd7dba-9b4b-367d-6679-2f5b745f4525"
+                          },
+                          "type": "String",
+                          "textContent": "01 · Frases"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "625602bc-ef55-b8cd-5140-8444750d5b29"
+                      },
+                      "type": "Image",
+                      "styleNames": [
+                        "sinal"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "assetId": "6ac522a3b40d2b8ad9f8604c"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "ad9d752d-d559-cbb7-6139-17a1fa360ade"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "titulo-3"
+                  ],
+                  "settings": {
+                    "tag": "h3",
+                    "visibility": true,
+                    "headingLevel": 3
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "ad9d752d-d559-cbb7-6139-17a1fa360ad7"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "ad9d752d-d559-cbb7-6139-17a1fa360ad6"
+                          },
+                          "type": "String",
+                          "textContent": "“Tá sem grana?”"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "ad9d752d-d559-cbb7-6139-17a1fa360ad8"
+                      },
+                      "type": "",
+                      "settings": {
+                        "visibility": true
+                      }
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "ad9d752d-d559-cbb7-6139-17a1fa360ada"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "ad9d752d-d559-cbb7-6139-17a1fa360ad9"
+                          },
+                          "type": "String",
+                          "textContent": "“Muito complexo, né?”"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "ad9d752d-d559-cbb7-6139-17a1fa360adb"
+                      },
+                      "type": "",
+                      "settings": {
+                        "visibility": true
+                      }
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "ad9d752d-d559-cbb7-6139-17a1fa360add"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "ad9d752d-d559-cbb7-6139-17a1fa360adc"
+                          },
+                          "type": "String",
+                          "textContent": "“Time não acompanha?”"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "43fd7dba-9b4b-367d-6679-2f5b745f452c"
+                  },
+                  "type": "Paragraph",
+                  "styleNames": [
+                    "corpo",
+                    "suave"
+                  ],
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "43fd7dba-9b4b-367d-6679-2f5b745f452b"
+                      },
+                      "type": "String",
+                      "textContent": "Essas perguntas te botaram pra refletir? Não precisa mais pensar."
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b8f1925c-5e15-0271-7c9a-06dadb9844ae"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "nevoa-cartao"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+              },
+              "type": "Block",
+              "styleNames": [
+                "cartao",
+                "is-correnteza"
+              ],
+              "attributes": {
+                "aria-roledescription": "cartão"
+              },
+              "settings": {
+                "tag": "article",
+                "visibility": true,
+                "block": {
+                  "tag": "article"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f4"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "topo",
+                    "is-correnteza"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f3"
+                      },
+                      "type": "Block",
+                      "styleNames": [
+                        "rotulo"
+                      ],
+                      "settings": {
+                        "tag": "div",
+                        "visibility": true,
+                        "block": {
+                          "tag": "div"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f2"
+                          },
+                          "type": "String",
+                          "textContent": "02 · Problema"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b2c124b9-4b17-2d7d-adf0-e670bcedf9fc"
+                      },
+                      "type": "Image",
+                      "styleNames": [
+                        "sinal"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "assetId": "6ac522a3b40d2b8ad9f8604c"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f8"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "titulo-3"
+                  ],
+                  "settings": {
+                    "tag": "h3",
+                    "visibility": true,
+                    "headingLevel": 3
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f5"
+                      },
+                      "type": "String",
+                      "textContent": "Quando a escala aumenta, "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f7"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f6"
+                          },
+                          "type": "String",
+                          "textContent": "a confusão emana da operação."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "c73c2ebc-394d-883f-4a0d-17a38d3974fa"
+                  },
+                  "type": "Paragraph",
+                  "styleNames": [
+                    "corpo",
+                    "suave"
+                  ],
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "c73c2ebc-394d-883f-4a0d-17a38d3974f9"
+                      },
+                      "type": "String",
+                      "textContent": "Então a TW é simples!"
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "da2a5d94-f934-61fd-0700-90e80e9b1cf1"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "nevoa-cartao"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+              },
+              "type": "Block",
+              "styleNames": [
+                "cartao",
+                "is-marmore"
+              ],
+              "attributes": {
+                "aria-roledescription": "cartão"
+              },
+              "settings": {
+                "tag": "article",
+                "visibility": true,
+                "block": {
+                  "tag": "article"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d0"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "topo"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "2d846f58-30d7-d3af-3987-f66adf8aa6cf"
+                      },
+                      "type": "Block",
+                      "styleNames": [
+                        "rotulo"
+                      ],
+                      "settings": {
+                        "tag": "div",
+                        "visibility": true,
+                        "block": {
+                          "tag": "div"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "2d846f58-30d7-d3af-3987-f66adf8aa6ce"
+                          },
+                          "type": "String",
+                          "textContent": "03 · A TW"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "2b90e57d-a146-1e3c-5068-270577f93027"
+                      },
+                      "type": "Image",
+                      "styleNames": [
+                        "sinal"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "assetId": "6ac522a3b40d2b8ad9f8604c"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d6"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "titulo-3",
+                    "com-busto",
+                    "is-grupo"
+                  ],
+                  "settings": {
+                    "tag": "h3",
+                    "visibility": true,
+                    "headingLevel": 3
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d2"
+                      },
+                      "type": "Span",
+                      "styleNames": [
+                        "ouro"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d1"
+                          },
+                          "type": "String",
+                          "textContent": "TW"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d3"
+                      },
+                      "type": "String",
+                      "textContent": ": uma revolução "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d5"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d4"
+                          },
+                          "type": "String",
+                          "textContent": "contemporânea."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d8"
+                  },
+                  "type": "Paragraph",
+                  "styleNames": [
+                    "corpo",
+                    "suave",
+                    "com-busto"
+                  ],
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "2d846f58-30d7-d3af-3987-f66adf8aa6d7"
+                      },
+                      "type": "String",
+                      "textContent": "Educação, tecnologia e mais dinheiro no bolso, isso com uma única infraestrutura."
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "592132a8-b0c5-a312-1fec-c407a73c8a79"
+                  },
+                  "type": "Image",
+                  "styleNames": [
+                    "busto",
+                    "is-retrato"
+                  ],
+                  "settings": {
+                    "visibility": true,
+                    "assetId": "6ac522a3ed7029c5b714441d",
+                    "altText": "Busto de mármore em luz baixa, com óculos dourados e louro"
+                  }
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "431cfcc4-1d13-fda5-d713-feab5e035243"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "nevoa-cartao"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+              },
+              "type": "Block",
+              "styleNames": [
+                "cartao",
+                "is-superficie"
+              ],
+              "attributes": {
+                "aria-roledescription": "cartão"
+              },
+              "settings": {
+                "tag": "article",
+                "visibility": true,
+                "block": {
+                  "tag": "article"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd4"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "topo"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd3"
+                      },
+                      "type": "Block",
+                      "styleNames": [
+                        "rotulo"
+                      ],
+                      "settings": {
+                        "tag": "div",
+                        "visibility": true,
+                        "block": {
+                          "tag": "div"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd2"
+                          },
+                          "type": "String",
+                          "textContent": "04 · Como funciona"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "6231bca3-a619-55df-a75f-fe8f2b2b8056"
+                      },
+                      "type": "Image",
+                      "styleNames": [
+                        "sinal"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "assetId": "6ac522a3b40d2b8ad9f8604c"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd8"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "titulo-3"
+                  ],
+                  "settings": {
+                    "tag": "h3",
+                    "visibility": true,
+                    "headingLevel": 3
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd5"
+                      },
+                      "type": "String",
+                      "textContent": "Qualquer sistema, "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd7"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd6"
+                          },
+                          "type": "String",
+                          "textContent": "qualquer indústria."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbda"
+                  },
+                  "type": "Paragraph",
+                  "styleNames": [
+                    "corpo",
+                    "suave"
+                  ],
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd9"
+                      },
+                      "type": "String",
+                      "textContent": "Análise → Infra → Método = Avanço 🚀"
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "7e327959-dacf-2fb6-7be3-eb63d3141d13"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "nevoa-cartao"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "01134dde-3bd5-b60b-d327-4725a61dadaf"
+              },
+              "type": "Block",
+              "styleNames": [
+                "cartao",
+                "is-alto"
+              ],
+              "attributes": {
+                "aria-roledescription": "cartão"
+              },
+              "settings": {
+                "tag": "article",
+                "visibility": true,
+                "block": {
+                  "tag": "article"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "01134dde-3bd5-b60b-d327-4725a61dada8"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "topo"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "01134dde-3bd5-b60b-d327-4725a61dada7"
+                      },
+                      "type": "Block",
+                      "styleNames": [
+                        "rotulo"
+                      ],
+                      "settings": {
+                        "tag": "div",
+                        "visibility": true,
+                        "block": {
+                          "tag": "div"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "01134dde-3bd5-b60b-d327-4725a61dada6"
+                          },
+                          "type": "String",
+                          "textContent": "05 · Mercado e modelo"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "47acfdc3-986d-0037-2e9d-9c3797bb0a50"
+                      },
+                      "type": "Image",
+                      "styleNames": [
+                        "sinal"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "assetId": "6ac522a4b40d2b8ad9f8607e"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "01134dde-3bd5-b60b-d327-4725a61dadac"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "titulo-3"
+                  ],
+                  "settings": {
+                    "tag": "h3",
+                    "visibility": true,
+                    "headingLevel": 3
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "01134dde-3bd5-b60b-d327-4725a61dada9"
+                      },
+                      "type": "String",
+                      "textContent": "Potencial e "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "01134dde-3bd5-b60b-d327-4725a61dadab"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "01134dde-3bd5-b60b-d327-4725a61dadaa"
+                          },
+                          "type": "String",
+                          "textContent": "alcances elevados."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "01134dde-3bd5-b60b-d327-4725a61dadae"
+                  },
+                  "type": "Paragraph",
+                  "styleNames": [
+                    "corpo",
+                    "suave"
+                  ],
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "01134dde-3bd5-b60b-d327-4725a61dadad"
+                      },
+                      "type": "String",
+                      "textContent": "SOM = US$ 30 milhões | Contrato e parcerias 🤝🏽"
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "171826c4-6f30-f50f-1a8e-3ce08998d21a"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "nevoa-cartao"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "cb9818d3-3317-8077-1766-4905e81ea581"
+              },
+              "type": "Block",
+              "styleNames": [
+                "cartao",
+                "is-cume"
+              ],
+              "attributes": {
+                "aria-roledescription": "cartão"
+              },
+              "settings": {
+                "tag": "article",
+                "visibility": true,
+                "block": {
+                  "tag": "article"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "cb9818d3-3317-8077-1766-4905e81ea573"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "topo"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "cb9818d3-3317-8077-1766-4905e81ea572"
+                      },
+                      "type": "Block",
+                      "styleNames": [
+                        "rotulo"
+                      ],
+                      "settings": {
+                        "tag": "div",
+                        "visibility": true,
+                        "block": {
+                          "tag": "div"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "cb9818d3-3317-8077-1766-4905e81ea571"
+                          },
+                          "type": "String",
+                          "textContent": "06 · O pedido"
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "8a3fbec6-fcea-1cfe-17b8-fd6744bdb48d"
+                      },
+                      "type": "Image",
+                      "styleNames": [
+                        "sinal"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "assetId": "6ac522a4b40d2b8ad9f8607e"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "cb9818d3-3317-8077-1766-4905e81ea577"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "titulo-3",
+                    "com-busto"
+                  ],
+                  "settings": {
+                    "tag": "h3",
+                    "visibility": true,
+                    "headingLevel": 3
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "cb9818d3-3317-8077-1766-4905e81ea574"
+                      },
+                      "type": "String",
+                      "textContent": "Potencial ilimitado "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "cb9818d3-3317-8077-1766-4905e81ea576"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "cb9818d3-3317-8077-1766-4905e81ea575"
+                          },
+                          "type": "String",
+                          "textContent": "à vista!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b95bf0c7-7d2f-8b20-9ff0-07c23a025143"
+                  },
+                  "type": "Image",
+                  "styleNames": [
+                    "busto",
+                    "is-retrato"
+                  ],
+                  "settings": {
+                    "visibility": true,
+                    "assetId": "6ac593ce6b0c752a85f1c7f2",
+                    "altText": "Retrato de Andrey Bacelar, fundador da TW, em desenho a lápis"
+                  }
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "cb9818d3-3317-8077-1766-4905e81ea580"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "fim"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "cb9818d3-3317-8077-1766-4905e81ea57b"
+                      },
+                      "type": "Paragraph",
+                      "styleNames": [
+                        "corpo",
+                        "suave"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "cb9818d3-3317-8077-1766-4905e81ea57a"
+                          },
+                          "type": "String",
+                          "textContent": "Para quem quer reconhecer esta ideia e tornar real a primeira infra numa empresa."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "cb9818d3-3317-8077-1766-4905e81ea57d"
+                      },
+                      "type": "Link",
+                      "styleNames": [
+                        "botao-luz"
+                      ],
+                      "settings": {
+                        "visibility": true,
+                        "link": {
+                          "linkType": "phone",
+                          "href": "tel:+5571991123987"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "cb9818d3-3317-8077-1766-4905e81ea57c"
+                          },
+                          "type": "String",
+                          "textContent": "Falar com a TW"
+                        },
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b8efe476-9a2a-d2b8-c07d-e3d7a3382801"
+                          },
+                          "type": "DOM",
+                          "styleNames": [
+                            "reflexo"
+                          ],
+                          "attributes": {
+                            "aria-hidden": "true"
+                          },
+                          "settings": {
+                            "tag": "span",
+                            "visibility": true,
+                            "dom": {
+                              "tag": "span"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "cb9818d3-3317-8077-1766-4905e81ea57f"
+                      },
+                      "type": "Link",
+                      "styleNames": [
+                        "botao-texto"
+                      ],
+                      "attributes": {
+                        "href": "#pitch"
+                      },
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "cb9818d3-3317-8077-1766-4905e81ea57e"
+                          },
+                          "type": "String",
+                          "textContent": "Recomeçar"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "08d77eda-bab9-b701-c9cc-16d392c666b1"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "nevoa-cartao"
+                  ],
+                  "attributes": {
+                    "aria-hidden": "true"
+                  },
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "fb0e0b75-37e1-609c-1a72-65365b3c57a6"
+          },
+          "type": "Paragraph",
+          "styleNames": [
+            "dica"
+          ],
+          "settings": {
+            "visibility": true
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "4fefaea5-d83d-e19d-25a3-b572d80f899f"
+              },
+              "type": "String",
+              "textContent": "Clique no cartão para avançar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": {
+        "component": "6ac51aba0b441e87266dd191",
+        "element": "8d7b7f46-eb59-260b-b2ee-ffac98747118"
+      },
+      "type": "Block",
+      "styleNames": [
+        "faixa",
+        "is-veu-nevoa"
+      ],
+      "attributes": {
+        "aria-hidden": "true"
+      },
+      "settings": {
+        "tag": "div",
+        "visibility": true,
+        "block": {
+          "tag": "div"
+        }
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "8d7b7f46-eb59-260b-b2ee-ffac98747116"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nevoa-mancha",
+            "is-1"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "8d7b7f46-eb59-260b-b2ee-ffac98747117"
+          },
+          "type": "Block",
+          "styleNames": [
+            "nevoa-mancha",
+            "is-2"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": {
+        "component": "6ac51aba0b441e87266dd191",
+        "element": "b184e549-70f6-c05c-0e5d-473710cbdcf7"
+      },
+      "type": "Section",
+      "styleNames": [
+        "zona",
+        "is-nevoa"
+      ],
+      "attributes": {
+        "id": "oficio"
+      },
+      "settings": {
+        "tag": "section",
+        "visibility": true
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "b184e549-70f6-c05c-0e5d-473710cbdcf6"
+          },
+          "type": "Block",
+          "styleNames": [
+            "conteudo"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "b184e549-70f6-c05c-0e5d-473710cbdce0"
+              },
+              "type": "Heading",
+              "styleNames": [
+                "display-2"
+              ],
+              "settings": {
+                "tag": "h2",
+                "visibility": true,
+                "headingLevel": 2
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b184e549-70f6-c05c-0e5d-473710cbdcdd"
+                  },
+                  "type": "String",
+                  "textContent": "Como esta página "
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b184e549-70f6-c05c-0e5d-473710cbdcdf"
+                  },
+                  "type": "Emphasized",
+                  "settings": {
+                    "visibility": true
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdcde"
+                      },
+                      "type": "String",
+                      "textContent": "foi pintada."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "b184e549-70f6-c05c-0e5d-473710cbdcf5"
+              },
+              "type": "Block",
+              "styleNames": [
+                "oficio-grade"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b184e549-70f6-c05c-0e5d-473710cbdce5"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "rocha",
+                    "is-bloco"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdce2"
+                      },
+                      "type": "Heading",
+                      "styleNames": [
+                        "titulo-3"
+                      ],
+                      "settings": {
+                        "tag": "h3",
+                        "visibility": true,
+                        "headingLevel": 3
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdce1"
+                          },
+                          "type": "String",
+                          "textContent": "Cor medida, não escolhida."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdce4"
+                      },
+                      "type": "Paragraph",
+                      "styleNames": [
+                        "corpo"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdce3"
+                          },
+                          "type": "String",
+                          "textContent": "Cada cor saiu de cinco obras de referência e foi medida por dois algoritmos independentes. Sombras e névoa caem num único eixo de matiz, entre 271° e 338°."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "afa2a0e1-77e2-3616-44ca-4b725be519fe"
+                      },
+                      "type": "DOM",
+                      "styleNames": [
+                        "reflexo"
+                      ],
+                      "attributes": {
+                        "aria-hidden": "true"
+                      },
+                      "settings": {
+                        "tag": "span",
+                        "visibility": true,
+                        "dom": {
+                          "tag": "span"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b184e549-70f6-c05c-0e5d-473710cbdcea"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "rocha",
+                    "is-bloco"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdce7"
+                      },
+                      "type": "Heading",
+                      "styleNames": [
+                        "titulo-3"
+                      ],
+                      "settings": {
+                        "tag": "h3",
+                        "visibility": true,
+                        "headingLevel": 3
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdce6"
+                          },
+                          "type": "String",
+                          "textContent": "Branco com orçamento."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdce9"
+                      },
+                      "type": "Paragraph",
+                      "styleNames": [
+                        "corpo"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "da6ca400-5122-e174-09b8-7079050e14b0"
+                          },
+                          "type": "String",
+                          "textContent": "Nas pinturas escuras de referência, o branco ocupa menos de 1% da tela (0,81% e 0,63%)."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "82f79e8e-8b06-30c0-66d4-436a4bb9a997"
+                      },
+                      "type": "DOM",
+                      "styleNames": [
+                        "reflexo"
+                      ],
+                      "attributes": {
+                        "aria-hidden": "true"
+                      },
+                      "settings": {
+                        "tag": "span",
+                        "visibility": true,
+                        "dom": {
+                          "tag": "span"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b184e549-70f6-c05c-0e5d-473710cbdcef"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "rocha",
+                    "is-bloco"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdcec"
+                      },
+                      "type": "Heading",
+                      "styleNames": [
+                        "titulo-3"
+                      ],
+                      "settings": {
+                        "tag": "h3",
+                        "visibility": true,
+                        "headingLevel": 3
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdceb"
+                          },
+                          "type": "String",
+                          "textContent": "A luz se move; o mármore fica."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdcee"
+                      },
+                      "type": "Paragraph",
+                      "styleNames": [
+                        "corpo"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdced"
+                          },
+                          "type": "String",
+                          "textContent": "Cinco famílias de movimento: névoa, correnteza, pincelada, luz rasante e ascensão. Nada quica, nada gira."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "1c71c2d4-3388-09a3-7fd2-94587cff5f49"
+                      },
+                      "type": "DOM",
+                      "styleNames": [
+                        "reflexo"
+                      ],
+                      "attributes": {
+                        "aria-hidden": "true"
+                      },
+                      "settings": {
+                        "tag": "span",
+                        "visibility": true,
+                        "dom": {
+                          "tag": "span"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "b184e549-70f6-c05c-0e5d-473710cbdcf4"
+                  },
+                  "type": "Block",
+                  "styleNames": [
+                    "rocha",
+                    "is-bloco"
+                  ],
+                  "settings": {
+                    "tag": "div",
+                    "visibility": true,
+                    "block": {
+                      "tag": "div"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdcf1"
+                      },
+                      "type": "Heading",
+                      "styleNames": [
+                        "titulo-3"
+                      ],
+                      "settings": {
+                        "tag": "h3",
+                        "visibility": true,
+                        "headingLevel": 3
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdcf0"
+                          },
+                          "type": "String",
+                          "textContent": "Feito em Webflow."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "b184e549-70f6-c05c-0e5d-473710cbdcf3"
+                      },
+                      "type": "Paragraph",
+                      "styleNames": [
+                        "corpo"
+                      ],
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "b184e549-70f6-c05c-0e5d-473710cbdcf2"
+                          },
+                          "type": "String",
+                          "textContent": "Variables com modes: uma altitude por seção e por cartão. Interactions com GSAP para texto, reflexo e névoa. Um script curto para o baralho."
+                        }
+                      ]
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "a5cf8585-46a1-014c-e995-f4431940e3e9"
+                      },
+                      "type": "DOM",
+                      "styleNames": [
+                        "reflexo"
+                      ],
+                      "attributes": {
+                        "aria-hidden": "true"
+                      },
+                      "settings": {
+                        "tag": "span",
+                        "visibility": true,
+                        "dom": {
+                          "tag": "span"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": {
+        "component": "6ac51aba0b441e87266dd191",
+        "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6409"
+      },
+      "type": "Section",
+      "styleNames": [
+        "zona",
+        "is-cume"
+      ],
+      "attributes": {
+        "id": "contato"
+      },
+      "settings": {
+        "tag": "section",
+        "visibility": true
+      },
+      "children": [
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "7d28cab7-53c4-63f6-c642-fe4c7d25b1fc"
+          },
+          "type": "Image",
+          "styleNames": [
+            "pintura",
+            "is-cume"
+          ],
+          "settings": {
+            "visibility": true,
+            "assetId": "6ac55ff28113aa95dfe528b2",
+            "altText": "Caspar David Friedrich, Andarilho sobre o mar de névoa (c. 1818): figura de costas no cume, olhando a névoa"
+          }
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6406"
+          },
+          "type": "Block",
+          "styleNames": [
+            "cume-copy"
+          ],
+          "settings": {
+            "tag": "div",
+            "visibility": true,
+            "block": {
+              "tag": "div"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "14c31a10-0c4e-b3d2-270a-6270d8fe63fe"
+              },
+              "type": "Block",
+              "styleNames": [
+                "titulo-hero"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "14c31a10-0c4e-b3d2-270a-6270d8fe63fd"
+                  },
+                  "type": "Heading",
+                  "styleNames": [
+                    "display-2"
+                  ],
+                  "settings": {
+                    "tag": "h2",
+                    "visibility": true,
+                    "headingLevel": 2
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "14c31a10-0c4e-b3d2-270a-6270d8fe63fa"
+                      },
+                      "type": "String",
+                      "textContent": "Vamos "
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "14c31a10-0c4e-b3d2-270a-6270d8fe63fc"
+                      },
+                      "type": "Emphasized",
+                      "settings": {
+                        "visibility": true
+                      },
+                      "children": [
+                        {
+                          "id": {
+                            "component": "6ac51aba0b441e87266dd191",
+                            "element": "14c31a10-0c4e-b3d2-270a-6270d8fe63fb"
+                          },
+                          "type": "String",
+                          "textContent": "conversar."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6400"
+              },
+              "type": "Paragraph",
+              "styleNames": [
+                "corpo-l",
+                "suave"
+              ],
+              "settings": {
+                "visibility": true
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "14c31a10-0c4e-b3d2-270a-6270d8fe63ff"
+                  },
+                  "type": "String",
+                  "textContent": "A TW é aberta a todos!"
+                }
+              ]
+            },
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6403"
+              },
+              "type": "Block",
+              "styleNames": [
+                "botoes"
+              ],
+              "settings": {
+                "tag": "div",
+                "visibility": true,
+                "block": {
+                  "tag": "div"
+                }
+              },
+              "children": [
+                {
+                  "id": {
+                    "component": "6ac51aba0b441e87266dd191",
+                    "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6402"
+                  },
+                  "type": "Link",
+                  "styleNames": [
+                    "botao-luz"
+                  ],
+                  "settings": {
+                    "visibility": true,
+                    "link": {
+                      "linkType": "phone",
+                      "href": "tel:+5571991123987"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6401"
+                      },
+                      "type": "String",
+                      "textContent": "Falar com a TW"
+                    },
+                    {
+                      "id": {
+                        "component": "6ac51aba0b441e87266dd191",
+                        "element": "f2f7549f-6e3b-179e-3fad-6879f04d01f5"
+                      },
+                      "type": "DOM",
+                      "styleNames": [
+                        "reflexo"
+                      ],
+                      "attributes": {
+                        "aria-hidden": "true"
+                      },
+                      "settings": {
+                        "tag": "span",
+                        "visibility": true,
+                        "dom": {
+                          "tag": "span"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": {
+            "component": "6ac51aba0b441e87266dd191",
+            "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6408"
+          },
+          "type": "Block",
+          "styleNames": [
+            "kicker"
+          ],
+          "settings": {
+            "tag": "footer",
+            "visibility": true,
+            "block": {
+              "tag": "footer"
+            }
+          },
+          "children": [
+            {
+              "id": {
+                "component": "6ac51aba0b441e87266dd191",
+                "element": "14c31a10-0c4e-b3d2-270a-6270d8fe6407"
+              },
+              "type": "String",
+              "textContent": "2026"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

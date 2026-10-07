@@ -1,0 +1,766 @@
+{
+  "primitivos": [
+    {
+      "id": "variable-6e36ebdb-1e0e-7876-c33e-8a3c79535763",
+      "name": "frio-950",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-950",
+      "value": "#0e0910",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#0e0910"
+        }
+      ]
+    },
+    {
+      "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258",
+      "name": "frio-900",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-900",
+      "value": "#171119",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#171119"
+        }
+      ]
+    },
+    {
+      "id": "variable-7d642340-4e51-3a28-34ad-d2362141bbb8",
+      "name": "frio-800",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-800",
+      "value": "#211a22",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#211a22"
+        }
+      ]
+    },
+    {
+      "id": "variable-3759dba5-4bd8-4428-5d3a-8124eecb0428",
+      "name": "frio-700",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-700",
+      "value": "#312b34",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#312b34"
+        }
+      ]
+    },
+    {
+      "id": "variable-05ce76db-3528-2e08-acfb-dbbab9c9e7b4",
+      "name": "frio-600",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-600",
+      "value": "#4f4b55",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#4f4b55"
+        }
+      ]
+    },
+    {
+      "id": "variable-27990821-45e7-2352-d9c1-6205711770bb",
+      "name": "frio-500",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-500",
+      "value": "#72707b",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#72707b"
+        }
+      ]
+    },
+    {
+      "id": "variable-e210a5c5-c1c6-c0d3-2f2f-b504f5d844d2",
+      "name": "frio-400",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-400",
+      "value": "#91919d",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#91919d"
+        }
+      ]
+    },
+    {
+      "id": "variable-e99daeeb-ae75-b988-2217-5733de3899a7",
+      "name": "frio-300",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-300",
+      "value": "#afb0bd",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#afb0bd"
+        }
+      ]
+    },
+    {
+      "id": "variable-b57d4e24-d9ac-b6b2-b88e-274802d6f9a1",
+      "name": "frio-200",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-200",
+      "value": "#cdd0dd",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#cdd0dd"
+        }
+      ]
+    },
+    {
+      "id": "variable-82c27bd5-30e5-a48b-5f70-1cf182376707",
+      "name": "frio-100",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-100",
+      "value": "#e5e7ef",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#e5e7ef"
+        }
+      ]
+    },
+    {
+      "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f",
+      "name": "frio-50",
+      "type": "Color",
+      "cssName": "--_primitivos---frio-50",
+      "value": "#f4f5f9",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#f4f5f9"
+        }
+      ]
+    },
+    {
+      "id": "variable-37aad996-1945-0618-5d57-73120e975988",
+      "name": "ouro-600",
+      "type": "Color",
+      "cssName": "--_primitivos---ouro-600",
+      "value": "#be781d",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#be781d"
+        }
+      ]
+    },
+    {
+      "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1",
+      "name": "ouro-500",
+      "type": "Color",
+      "cssName": "--_primitivos---ouro-500",
+      "value": "#bd9952",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#bd9952"
+        }
+      ]
+    },
+    {
+      "id": "variable-de4d32d1-97ad-30de-8826-b7cd7aa8f9b7",
+      "name": "linho",
+      "type": "Color",
+      "cssName": "--_primitivos---linho",
+      "value": "#cdbda6",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#cdbda6"
+        }
+      ]
+    },
+    {
+      "id": "variable-08541a33-affe-74ab-d49c-a423548315a3",
+      "name": "marmore",
+      "type": "Color",
+      "cssName": "--_primitivos---marmore",
+      "value": "#dcd8cf",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#dcd8cf"
+        }
+      ]
+    },
+    {
+      "id": "variable-d83e4ecf-6373-1836-7c20-c09642abbb70",
+      "name": "teal-abismo",
+      "type": "Color",
+      "cssName": "--_primitivos---teal-abismo",
+      "value": "#2f4f58",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "#2f4f58"
+        }
+      ]
+    },
+    {
+      "id": "variable-af286b24-59b4-cd0e-9d48-bd3ebdf60718",
+      "name": "serif",
+      "type": "FontFamily",
+      "cssName": "--_primitivos---serif",
+      "value": "Bodoni Moda",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "Bodoni Moda"
+        }
+      ]
+    },
+    {
+      "id": "variable-2e38615d-281a-ff99-1213-2bc698bf0829",
+      "name": "sans",
+      "type": "FontFamily",
+      "cssName": "--_primitivos---sans",
+      "value": "Bricolage Grotesque",
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": "Bricolage Grotesque"
+        }
+      ]
+    }
+  ],
+  "semantico": [
+    {
+      "id": "variable-48f1f803-9775-a327-8b50-bb63eb0368ea",
+      "name": "fundo",
+      "type": "Color",
+      "cssName": "--_semântico---fundo",
+      "value": {
+        "id": "variable-6e36ebdb-1e0e-7876-c33e-8a3c79535763"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "id": "variable-6e36ebdb-1e0e-7876-c33e-8a3c79535763"
+          }
+        },
+        {
+          "modeId": "mode-061e8e5d-aa3b-3a3c-b1f5-c1040c539cad",
+          "value": {
+            "id": "variable-6e36ebdb-1e0e-7876-c33e-8a3c79535763"
+          }
+        },
+        {
+          "modeId": "mode-dbd75172-0ab5-d84f-ed48-c2a296f60dff",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        },
+        {
+          "modeId": "mode-72a89295-5b73-84d7-7c10-48c9c64372cf",
+          "value": {
+            "id": "variable-7d642340-4e51-3a28-34ad-d2362141bbb8"
+          }
+        },
+        {
+          "modeId": "mode-3e93dfd3-0dd2-c27c-67e7-d358b89cc6fb",
+          "value": {
+            "id": "variable-3759dba5-4bd8-4428-5d3a-8124eecb0428"
+          }
+        },
+        {
+          "modeId": "mode-3daf7023-3a4f-e96b-62c2-ac8766fd5319",
+          "value": {
+            "id": "variable-05ce76db-3528-2e08-acfb-dbbab9c9e7b4"
+          }
+        },
+        {
+          "modeId": "mode-3394faea-f0a5-34de-c570-219d2b158172",
+          "value": {
+            "id": "variable-e99daeeb-ae75-b988-2217-5733de3899a7"
+          }
+        },
+        {
+          "modeId": "mode-5ab553ad-09f6-7bec-be47-2761ba201bea",
+          "value": {
+            "id": "variable-b57d4e24-d9ac-b6b2-b88e-274802d6f9a1"
+          }
+        },
+        {
+          "modeId": "mode-d988593c-b9f9-16da-7aa9-d1b4e436c60e",
+          "value": {
+            "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-8956b49e-204f-ea1e-02a4-d2eaeaae6b41",
+      "name": "texto",
+      "type": "Color",
+      "cssName": "--_semântico---texto",
+      "value": {
+        "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f"
+          }
+        },
+        {
+          "modeId": "mode-061e8e5d-aa3b-3a3c-b1f5-c1040c539cad",
+          "value": {
+            "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f"
+          }
+        },
+        {
+          "modeId": "mode-dbd75172-0ab5-d84f-ed48-c2a296f60dff",
+          "value": {
+            "id": "variable-82c27bd5-30e5-a48b-5f70-1cf182376707"
+          }
+        },
+        {
+          "modeId": "mode-72a89295-5b73-84d7-7c10-48c9c64372cf",
+          "value": {
+            "id": "variable-82c27bd5-30e5-a48b-5f70-1cf182376707"
+          }
+        },
+        {
+          "modeId": "mode-3e93dfd3-0dd2-c27c-67e7-d358b89cc6fb",
+          "value": {
+            "id": "variable-82c27bd5-30e5-a48b-5f70-1cf182376707"
+          }
+        },
+        {
+          "modeId": "mode-3daf7023-3a4f-e96b-62c2-ac8766fd5319",
+          "value": {
+            "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f"
+          }
+        },
+        {
+          "modeId": "mode-3394faea-f0a5-34de-c570-219d2b158172",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        },
+        {
+          "modeId": "mode-5ab553ad-09f6-7bec-be47-2761ba201bea",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        },
+        {
+          "modeId": "mode-d988593c-b9f9-16da-7aa9-d1b4e436c60e",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-8a85bf19-2d85-41cf-cb57-2798ac12965f",
+      "name": "texto-suave",
+      "type": "Color",
+      "cssName": "--_semântico---texto-suave",
+      "value": {
+        "id": "variable-e210a5c5-c1c6-c0d3-2f2f-b504f5d844d2"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "id": "variable-e210a5c5-c1c6-c0d3-2f2f-b504f5d844d2"
+          }
+        },
+        {
+          "modeId": "mode-061e8e5d-aa3b-3a3c-b1f5-c1040c539cad",
+          "value": {
+            "id": "variable-e210a5c5-c1c6-c0d3-2f2f-b504f5d844d2"
+          }
+        },
+        {
+          "modeId": "mode-dbd75172-0ab5-d84f-ed48-c2a296f60dff",
+          "value": {
+            "id": "variable-e210a5c5-c1c6-c0d3-2f2f-b504f5d844d2"
+          }
+        },
+        {
+          "modeId": "mode-72a89295-5b73-84d7-7c10-48c9c64372cf",
+          "value": {
+            "id": "variable-e210a5c5-c1c6-c0d3-2f2f-b504f5d844d2"
+          }
+        },
+        {
+          "modeId": "mode-3e93dfd3-0dd2-c27c-67e7-d358b89cc6fb",
+          "value": {
+            "id": "variable-e99daeeb-ae75-b988-2217-5733de3899a7"
+          }
+        },
+        {
+          "modeId": "mode-3daf7023-3a4f-e96b-62c2-ac8766fd5319",
+          "value": {
+            "id": "variable-82c27bd5-30e5-a48b-5f70-1cf182376707"
+          }
+        },
+        {
+          "modeId": "mode-3394faea-f0a5-34de-c570-219d2b158172",
+          "value": {
+            "id": "variable-3759dba5-4bd8-4428-5d3a-8124eecb0428"
+          }
+        },
+        {
+          "modeId": "mode-5ab553ad-09f6-7bec-be47-2761ba201bea",
+          "value": {
+            "id": "variable-3759dba5-4bd8-4428-5d3a-8124eecb0428"
+          }
+        },
+        {
+          "modeId": "mode-d988593c-b9f9-16da-7aa9-d1b4e436c60e",
+          "value": {
+            "id": "variable-3759dba5-4bd8-4428-5d3a-8124eecb0428"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-7abde605-ed8f-563f-b405-b08a3fd26a9b",
+      "name": "prova",
+      "type": "Color",
+      "cssName": "--_semântico---prova",
+      "value": {
+        "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1"
+          }
+        },
+        {
+          "modeId": "mode-061e8e5d-aa3b-3a3c-b1f5-c1040c539cad",
+          "value": {
+            "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1"
+          }
+        },
+        {
+          "modeId": "mode-dbd75172-0ab5-d84f-ed48-c2a296f60dff",
+          "value": {
+            "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1"
+          }
+        },
+        {
+          "modeId": "mode-72a89295-5b73-84d7-7c10-48c9c64372cf",
+          "value": {
+            "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1"
+          }
+        },
+        {
+          "modeId": "mode-3e93dfd3-0dd2-c27c-67e7-d358b89cc6fb",
+          "value": {
+            "id": "variable-e1d8bf36-a2b6-619c-eed6-d9b3118c14d1"
+          }
+        },
+        {
+          "modeId": "mode-3daf7023-3a4f-e96b-62c2-ac8766fd5319",
+          "value": {
+            "id": "variable-f07b2035-4204-c250-8181-0975ad2b464f"
+          }
+        },
+        {
+          "modeId": "mode-3394faea-f0a5-34de-c570-219d2b158172",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        },
+        {
+          "modeId": "mode-5ab553ad-09f6-7bec-be47-2761ba201bea",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        },
+        {
+          "modeId": "mode-d988593c-b9f9-16da-7aa9-d1b4e436c60e",
+          "value": {
+            "id": "variable-eb7307a7-b757-81f5-1d2d-a168d205f258"
+          }
+        }
+      ]
+    }
+  ],
+  "medidas": [
+    {
+      "id": "variable-b7940a76-7e27-8658-6fdf-bb7420b8d333",
+      "name": "display-1",
+      "type": "Size",
+      "cssName": "--_medidas---display-1",
+      "value": {
+        "value": 112,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 112,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 72,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 44,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-e9ea52cb-e0ae-5314-b1b9-6d75247de990",
+      "name": "display-2",
+      "type": "Size",
+      "cssName": "--_medidas---display-2",
+      "value": {
+        "value": 72,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 72,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 52,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 36,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-31dd2a56-a2d9-a7a4-6e92-9c309a8fa3da",
+      "name": "titulo-3",
+      "type": "Size",
+      "cssName": "--_medidas---titulo-3",
+      "value": {
+        "value": 40,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 40,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 32,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 26,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-98feb2ed-e84d-1846-1d7b-116f93ef3dce",
+      "name": "numero",
+      "type": "Size",
+      "cssName": "--_medidas---numero",
+      "value": {
+        "value": 120,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 120,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 88,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 56,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-4949da94-3d58-4276-64ab-1642dcefb15e",
+      "name": "corpo-l",
+      "type": "Size",
+      "cssName": "--_medidas---corpo-l",
+      "value": {
+        "value": 20,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 20,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 19,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 18,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-f20668db-9a5e-72e1-1f41-046afe5ec6ff",
+      "name": "corpo",
+      "type": "Size",
+      "cssName": "--_medidas---corpo",
+      "value": {
+        "value": 17,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 17,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 16,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 16,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-882bee5e-040b-bac6-d06a-fe91ef6ffd40",
+      "name": "espaco-secao",
+      "type": "Size",
+      "cssName": "--_medidas---espaco-secao",
+      "value": {
+        "value": 160,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 160,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 112,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 72,
+            "unit": "px"
+          }
+        }
+      ]
+    },
+    {
+      "id": "variable-0962d071-1af8-0018-76dd-47ae9a25afbb",
+      "name": "cartao-pad",
+      "type": "Size",
+      "cssName": "--_medidas---cartao-pad",
+      "value": {
+        "value": 48,
+        "unit": "px"
+      },
+      "modeValues": [
+        {
+          "modeId": "base",
+          "value": {
+            "value": 48,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-5862810d-dcde-803a-74a1-fc3dde4a442d",
+          "value": {
+            "value": 36,
+            "unit": "px"
+          }
+        },
+        {
+          "modeId": "mode-7684b2fc-762e-072a-783e-7418e02709ee",
+          "value": {
+            "value": 24,
+            "unit": "px"
+          }
+        }
+      ]
+    }
+  ]
+}
