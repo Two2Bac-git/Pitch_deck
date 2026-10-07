@@ -1,0 +1,5028 @@
+[
+  {
+    "id": "i-9a948bda",
+    "name": "Baralho · recomeçar (§9 + §3)",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:click",
+        "config": {
+          "control": "restart"
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "cb9818d3-3317-8077-1766-4905e81ea57f"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-84471baf",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "d1",
+            "name": "Cartão 1 volta à pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "43fd7dba-9b4b-367d-6679-2f5b745f452d"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "id": "d2",
+            "name": "Cartão 2 volta à pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "id": "d3",
+            "name": "Cartão 3 volta à pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "id": "d4",
+            "name": "Cartão 4 volta à pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "id": "d5",
+            "name": "Cartão 5 volta à pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "id": "d6",
+            "name": "Cartão 6 volta à pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "cb9818d3-3317-8077-1766-4905e81ea581"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "flex"
+              }
+            }
+          },
+          {
+            "id": "r0c",
+            "name": "Cartão 1 → posição 0",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "43fd7dba-9b4b-367d-6679-2f5b745f452d"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  1
+                ],
+                "yPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "r0n",
+            "name": "Névoa 1 → 0%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "b8f1925c-5e15-0271-7c9a-06dadb9844ae"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "r1c",
+            "name": "Cartão 2 → posição 1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.95
+                ],
+                "yPercent": [
+                  null,
+                  -5
+                ]
+              }
+            }
+          },
+          {
+            "id": "r1n",
+            "name": "Névoa 2 → 18%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "da2a5d94-f934-61fd-0700-90e80e9b1cf1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "18%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "r2c",
+            "name": "Cartão 3 → posição 2",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.9
+                ],
+                "yPercent": [
+                  null,
+                  -10
+                ]
+              }
+            }
+          },
+          {
+            "id": "r2n",
+            "name": "Névoa 3 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "431cfcc4-1d13-fda5-d713-feab5e035243"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "r3c",
+            "name": "Cartão 4 → posição 3",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "scale": [
+                  null,
+                  0.86
+                ],
+                "yPercent": [
+                  null,
+                  -14
+                ]
+              }
+            }
+          },
+          {
+            "id": "r3n",
+            "name": "Névoa 4 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "7e327959-dacf-2fb6-7be3-eb63d3141d13"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "r4c",
+            "name": "Cartão 5 → posição 3",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "scale": [
+                  null,
+                  0.86
+                ],
+                "yPercent": [
+                  null,
+                  -14
+                ]
+              }
+            }
+          },
+          {
+            "id": "r4n",
+            "name": "Névoa 5 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "171826c4-6f30-f50f-1a8e-3ce08998d21a"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "r5c",
+            "name": "Cartão 6 → posição 3",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "cb9818d3-3317-8077-1766-4905e81ea581"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "scale": [
+                  null,
+                  0.86
+                ],
+                "yPercent": [
+                  null,
+                  -14
+                ]
+              }
+            }
+          },
+          {
+            "id": "r5n",
+            "name": "Névoa 6 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "08d77eda-bab9-b701-c9cc-16d392c666b1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 3
+  },
+  {
+    "id": "i-2ca29789",
+    "name": "I4 · Névoa",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top bottom",
+            "end": "bottom top",
+            "enter": "play",
+            "leave": "pause",
+            "enterBack": "play",
+            "leaveBack": "pause"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "8d7b7f46-eb59-260b-b2ee-ffac98747118"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-a51a69f8",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "mancha-1",
+            "name": "Mancha 1 · 23 s",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "3d9bd8f2-0020-aa30-3cca-7362c845d258",
+                  "7deb4f1c-32ba-d91a-a236-f41d9e9bb11c"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 23,
+              "repeat": -1,
+              "yoyo": true,
+              "position": 0,
+              "ease": 30
+            },
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  null,
+                  18
+                ],
+                "yPercent": [
+                  null,
+                  10
+                ]
+              }
+            }
+          },
+          {
+            "id": "mancha-2",
+            "name": "Mancha 2 · 29 s",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "3d9bd8f2-0020-aa30-3cca-7362c845d258",
+                  "2d3a02a0-52fb-5c03-70ec-5e9587dd07a3"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 29,
+              "repeat": -1,
+              "yoyo": true,
+              "position": 0,
+              "ease": 30
+            },
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  null,
+                  -22
+                ],
+                "yPercent": [
+                  null,
+                  -8
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 3
+  },
+  {
+    "id": "i-41e2ff2c",
+    "name": "I5 · Correnteza",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top bottom",
+            "end": "bottom top",
+            "enter": "play",
+            "leave": "pause",
+            "enterBack": "play",
+            "leaveBack": "pause"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "52fd0632-dc89-a41e-64e7-ad41d99a133a"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-e6dbbdad",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "raio-1",
+            "name": "Raio 1 · 11 s",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "ade1f662-5c2f-4dd6-7857-ca77eea101c9",
+                  "5e6c3a2b-9cce-c4bb-47f9-9a613e82ecca"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 11,
+              "repeat": -1,
+              "yoyo": true,
+              "position": 0,
+              "ease": 6
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "skewX": [
+                  -6,
+                  6
+                ],
+                "x": [
+                  -14,
+                  14
+                ]
+              }
+            }
+          },
+          {
+            "id": "raio-2",
+            "name": "Raio 2 · 13 s",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "ade1f662-5c2f-4dd6-7857-ca77eea101c9",
+                  "be668fbc-2ca7-eca1-4184-7f938206beab"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 13,
+              "repeat": -1,
+              "yoyo": true,
+              "position": 0,
+              "ease": 6
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "skewX": [
+                  -6,
+                  6
+                ],
+                "x": [
+                  -14,
+                  14
+                ]
+              }
+            }
+          },
+          {
+            "id": "raio-3",
+            "name": "Raio 3 · 17 s",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "ade1f662-5c2f-4dd6-7857-ca77eea101c9",
+                  "4c0ab526-36c1-700b-ca8b-d6372b8daeef"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 17,
+              "repeat": -1,
+              "yoyo": true,
+              "position": 0,
+              "ease": 6
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "skewX": [
+                  -6,
+                  6
+                ],
+                "x": [
+                  -14,
+                  14
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-27bd8e0c",
+    "name": "I1 · Frase → promessa",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:load",
+        "config": {
+          "control": "play",
+          "controlType": "load"
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-e0487c15",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "frase-entra",
+            "name": "Frase-fantasma aparece",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a132b"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "pincel-prepara",
+            "name": "Pincelada à esquerda",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a1330"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%",
+                "xPercent": -115
+              }
+            }
+          },
+          {
+            "id": "pincel-cobre",
+            "name": "Pincelada cobre a frase",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a1330"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.6,
+              "position": 0.6,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "frase-sai",
+            "name": "Frase sai sob a pincelada",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a132b"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 1.2
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          },
+          {
+            "id": "pincel-descobre",
+            "name": "Pincelada descobre o H1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a1330"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.6,
+              "position": 1.2,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  null,
+                  115
+                ]
+              }
+            }
+          },
+          {
+            "id": "pincel-some",
+            "name": "Pincelada some",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a1330"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 1.8
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          },
+          {
+            "id": "h1-palavras",
+            "name": "H1 por palavras",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "52fd0632-dc89-a41e-64e7-ad41d99a132f"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 1.2,
+              "stagger": {
+                "each": 0.06
+              },
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  "0%",
+                  "100%"
+                ]
+              }
+            },
+            "splitText": {
+              "type": "words"
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-f7af6aad",
+    "name": "I2 · Títulos pincelados",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top 85%",
+            "end": "bottom 15%",
+            "enter": "play",
+            "leave": "none",
+            "enterBack": "none",
+            "leaveBack": "none"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:class",
+          "value": [
+            "16553974-f175-a418-0b30-e2791a260632"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-85c685a2",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "titulo-palavras",
+            "name": "Título por palavras",
+            "targets": [
+              {
+                "extensionKey": "wf:trigger-only",
+                "value": "",
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "stagger": {
+                "each": 0.06
+              },
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  "0%",
+                  "100%"
+                ],
+                "y": [
+                  24,
+                  0
+                ]
+              }
+            },
+            "splitText": {
+              "type": "words"
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-16ab6c71",
+    "name": "I3 · Luz rasante · Botão Luz · hero",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "52fd0632-dc89-a41e-64e7-ad41d99a1335"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-b9f2e331",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "1ed90a04-c5dd-f37e-a127-963e003977ed"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "1ed90a04-c5dd-f37e-a127-963e003977ed"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "1ed90a04-c5dd-f37e-a127-963e003977ed"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-ca909b76",
+    "name": "I3 · Luz rasante · Botão Luz · cartão 7",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "cb9818d3-3317-8077-1766-4905e81ea57d"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-dc10ec02",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "b8efe476-9a2a-d2b8-c07d-e3d7a3382801"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "b8efe476-9a2a-d2b8-c07d-e3d7a3382801"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "b8efe476-9a2a-d2b8-c07d-e3d7a3382801"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-0efcf976",
+    "name": "I3 · Luz rasante · Botão Luz · Cume",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "14c31a10-0c4e-b3d2-270a-6270d8fe6402"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-c7fa7d03",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "f2f7549f-6e3b-179e-3fad-6879f04d01f5"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "f2f7549f-6e3b-179e-3fad-6879f04d01f5"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "f2f7549f-6e3b-179e-3fad-6879f04d01f5"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-e6009c3a",
+    "name": "I3 · Luz rasante · Bloco 1 · Ofício",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "b184e549-70f6-c05c-0e5d-473710cbdce5"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-94101d3a",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "afa2a0e1-77e2-3616-44ca-4b725be519fe"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "afa2a0e1-77e2-3616-44ca-4b725be519fe"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "afa2a0e1-77e2-3616-44ca-4b725be519fe"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-3b716fe3",
+    "name": "I3 · Luz rasante · Bloco 2 · Ofício",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "b184e549-70f6-c05c-0e5d-473710cbdcea"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-6bdf565c",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "82f79e8e-8b06-30c0-66d4-436a4bb9a997"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "82f79e8e-8b06-30c0-66d4-436a4bb9a997"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "82f79e8e-8b06-30c0-66d4-436a4bb9a997"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-125f6abf",
+    "name": "I3 · Luz rasante · Bloco 3 · Ofício",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "b184e549-70f6-c05c-0e5d-473710cbdcef"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-a4077840",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "1c71c2d4-3388-09a3-7fd2-94587cff5f49"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "1c71c2d4-3388-09a3-7fd2-94587cff5f49"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "1c71c2d4-3388-09a3-7fd2-94587cff5f49"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-eb739c15",
+    "name": "I3 · Luz rasante · Bloco 4 · Ofício",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:hover",
+        "config": {
+          "control": "restart",
+          "pluginConfig": {
+            "eventMode": "enter",
+            "multiTimeline": false
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "b184e549-70f6-c05c-0e5d-473710cbdcf4"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-8811afd1",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "acende",
+            "name": "Reflexo acende",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "a5cf8585-46a1-014c-e995-f4431940e3e9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%"
+              }
+            }
+          },
+          {
+            "id": "passa",
+            "name": "Luz rasante atravessa",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "a5cf8585-46a1-014c-e995-f4431940e3e9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.48,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "xPercent": [
+                  -120,
+                  120
+                ]
+              }
+            }
+          },
+          {
+            "id": "apaga",
+            "name": "Reflexo apaga",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "a5cf8585-46a1-014c-e995-f4431940e3e9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.48
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-06451cf2",
+    "name": "I6 · Partículas (Correnteza)",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top bottom",
+            "end": "bottom top",
+            "enter": "play",
+            "leave": "pause",
+            "enterBack": "play",
+            "leaveBack": "pause"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "52fd0632-dc89-a41e-64e7-ad41d99a133a"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-703fe2dd",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "b1",
+            "name": "Partícula 1",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "abb85999-34a5-c4cb-08f8-7986562ceb17",
+                  "60cce08b-0385-6762-7bb6-54741760c35e"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 9,
+              "repeat": -1,
+              "position": 0,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  0,
+                  -230
+                ]
+              }
+            }
+          },
+          {
+            "id": "b2",
+            "name": "Partícula 2",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "abb85999-34a5-c4cb-08f8-7986562ceb17",
+                  "a7a6e382-86b2-f8d5-5e75-3f32832acfe0"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 9,
+              "repeat": -1,
+              "position": 2,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  0,
+                  -230
+                ]
+              }
+            }
+          },
+          {
+            "id": "b3",
+            "name": "Partícula 3",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "abb85999-34a5-c4cb-08f8-7986562ceb17",
+                  "909fc600-36be-aaa9-6424-dbbd553201fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 9,
+              "repeat": -1,
+              "position": 4.5,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  0,
+                  -230
+                ]
+              }
+            }
+          },
+          {
+            "id": "b4",
+            "name": "Partícula 4",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "abb85999-34a5-c4cb-08f8-7986562ceb17",
+                  "b3ce0476-7588-9b67-c09e-3a3aafc94fe3"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 9,
+              "repeat": -1,
+              "position": 6,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  0,
+                  -230
+                ]
+              }
+            }
+          },
+          {
+            "id": "b5",
+            "name": "Partícula 5",
+            "targets": [
+              {
+                "extensionKey": "wf:class",
+                "value": [
+                  "abb85999-34a5-c4cb-08f8-7986562ceb17",
+                  "5caa8ca4-fb5f-d631-d686-86f2e2008fc9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 9,
+              "repeat": -1,
+              "position": 7.5,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  0,
+                  -230
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-44951a4b",
+    "name": "I7 · Parallax · A Queda",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top top",
+            "end": "bottom top",
+            "scrub": 1,
+            "enter": "play",
+            "leave": "none",
+            "enterBack": "none",
+            "leaveBack": "none"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "52fd0632-dc89-a41e-64e7-ad41d99a133a"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-fed493e4",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "queda",
+            "name": "A Queda desce",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "8a566020-03ba-83ef-2d84-65f48d696506"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 1,
+              "position": 0,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "yPercent": [
+                  0,
+                  8
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-6b0bb617",
+    "name": "I7 · Parallax · Friedrich",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top bottom",
+            "end": "bottom bottom",
+            "scrub": 1,
+            "enter": "play",
+            "leave": "none",
+            "enterBack": "none",
+            "leaveBack": "none"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "14c31a10-0c4e-b3d2-270a-6270d8fe6409"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-38159098",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "andarilho",
+            "name": "Friedrich sobe ao lugar",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "7d28cab7-53c4-63f6-c642-fe4c7d25b1fc"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 1,
+              "position": 0,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "yPercent": [
+                  -8,
+                  0
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-7d0de6d3",
+    "name": "I7 · Ascensão · névoa 1",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top bottom",
+            "end": "bottom top",
+            "scrub": 1,
+            "enter": "play",
+            "leave": "none",
+            "enterBack": "none",
+            "leaveBack": "none"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:class",
+          "value": [
+            "3d9bd8f2-0020-aa30-3cca-7362c845d258",
+            "7deb4f1c-32ba-d91a-a236-f41d9e9bb11c"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-f8e24ecc",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "deriva",
+            "name": "Névoa acompanha o scroll",
+            "targets": [
+              {
+                "extensionKey": "wf:trigger-only",
+                "value": "",
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 1,
+              "position": 0,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  60,
+                  -60
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-20597342",
+    "name": "I7 · Ascensão · névoa 2",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top bottom",
+            "end": "bottom top",
+            "scrub": 1,
+            "enter": "play",
+            "leave": "none",
+            "enterBack": "none",
+            "leaveBack": "none"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:class",
+          "value": [
+            "3d9bd8f2-0020-aa30-3cca-7362c845d258",
+            "2d3a02a0-52fb-5c03-70ec-5e9587dd07a3"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-accf3337",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "deriva",
+            "name": "Névoa acompanha o scroll",
+            "targets": [
+              {
+                "extensionKey": "wf:trigger-only",
+                "value": "",
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 1,
+              "position": 0,
+              "ease": 0
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "y": [
+                  30,
+                  -30
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-fd0478e5",
+    "name": "I8 · Blocos-rocha entram",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:scroll",
+        "config": {
+          "controlType": "scroll",
+          "scrollTriggerConfig": {
+            "start": "top 85%",
+            "end": "bottom 15%",
+            "enter": "play",
+            "leave": "none",
+            "enterBack": "none",
+            "leaveBack": "none"
+          }
+        },
+        "target": {
+          "extensionKey": "wf:class",
+          "value": [
+            "90071212-2c14-e319-aeba-829f9ae0b74c",
+            "a46fcdd4-a4fb-8fa5-b135-c65af1a43178"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-4b109d40",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "bloco",
+            "name": "Bloco entra com ease-névoa",
+            "targets": [
+              {
+                "extensionKey": "wf:trigger-only",
+                "value": "",
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 1.4,
+              "position": 0,
+              "ease": 26
+            },
+            "tt": 2,
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  "0%",
+                  "100%"
+                ],
+                "y": [
+                  24,
+                  0
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "dont-animate",
+        "breakpoints": []
+      }
+    ],
+    "version": 1
+  },
+  {
+    "id": "i-a3049a91",
+    "name": "Baralho · pilha inicial (§3)",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:load",
+        "config": {
+          "control": "play",
+          "controlType": "load"
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-ffa8f8fc",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "i1c",
+            "name": "Cartão 2 → posição 1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%",
+                "scale": 0.95,
+                "yPercent": -5
+              }
+            }
+          },
+          {
+            "id": "i1n",
+            "name": "Névoa 2 → 18%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "da2a5d94-f934-61fd-0700-90e80e9b1cf1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "18%"
+              }
+            }
+          },
+          {
+            "id": "i2c",
+            "name": "Cartão 3 → posição 2",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "100%",
+                "scale": 0.9,
+                "yPercent": -10
+              }
+            }
+          },
+          {
+            "id": "i2n",
+            "name": "Névoa 3 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "431cfcc4-1d13-fda5-d713-feab5e035243"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "36%"
+              }
+            }
+          },
+          {
+            "id": "i3c",
+            "name": "Cartão 4 → posição 3",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%",
+                "scale": 0.86,
+                "yPercent": -14
+              }
+            }
+          },
+          {
+            "id": "i3n",
+            "name": "Névoa 4 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "7e327959-dacf-2fb6-7be3-eb63d3141d13"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "36%"
+              }
+            }
+          },
+          {
+            "id": "i4c",
+            "name": "Cartão 5 → posição 3",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%",
+                "scale": 0.86,
+                "yPercent": -14
+              }
+            }
+          },
+          {
+            "id": "i4n",
+            "name": "Névoa 5 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "171826c4-6f30-f50f-1a8e-3ce08998d21a"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "36%"
+              }
+            }
+          },
+          {
+            "id": "i5c",
+            "name": "Cartão 6 → posição 3",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "cb9818d3-3317-8077-1766-4905e81ea581"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "0%",
+                "scale": 0.86,
+                "yPercent": -14
+              }
+            }
+          },
+          {
+            "id": "i5n",
+            "name": "Névoa 6 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "08d77eda-bab9-b701-c9cc-16d392c666b1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "opacity": "36%"
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-36ca7324",
+    "name": "Baralho · avançar do cartão 1",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:click",
+        "config": {
+          "control": "restart"
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "43fd7dba-9b4b-367d-6679-2f5b745f452d"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-a39dc85a",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "sai",
+            "name": "Cartão 1 sai",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "43fd7dba-9b4b-367d-6679-2f5b745f452d"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "yPercent": [
+                  null,
+                  35
+                ]
+              }
+            }
+          },
+          {
+            "id": "some",
+            "name": "Cartão 1 sai da pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "43fd7dba-9b4b-367d-6679-2f5b745f452d"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.9
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "none"
+              }
+            }
+          },
+          {
+            "id": "p1c",
+            "name": "Cartão 2 → posição 0",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  1
+                ],
+                "yPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "p1n",
+            "name": "Névoa 2 → 0%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "da2a5d94-f934-61fd-0700-90e80e9b1cf1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2c",
+            "name": "Cartão 3 → posição 1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.95
+                ],
+                "yPercent": [
+                  null,
+                  -5
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2n",
+            "name": "Névoa 3 → 18%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "431cfcc4-1d13-fda5-d713-feab5e035243"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "18%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p3c",
+            "name": "Cartão 4 → posição 2",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.9
+                ],
+                "yPercent": [
+                  null,
+                  -10
+                ]
+              }
+            }
+          },
+          {
+            "id": "p3n",
+            "name": "Névoa 4 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "7e327959-dacf-2fb6-7be3-eb63d3141d13"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-a3c90a6e",
+    "name": "Baralho · avançar do cartão 2",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:click",
+        "config": {
+          "control": "restart"
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-17ea5a53",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "sai",
+            "name": "Cartão 2 sai",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "yPercent": [
+                  null,
+                  35
+                ]
+              }
+            }
+          },
+          {
+            "id": "some",
+            "name": "Cartão 2 sai da pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "c73c2ebc-394d-883f-4a0d-17a38d3974fb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.9
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "none"
+              }
+            }
+          },
+          {
+            "id": "p1c",
+            "name": "Cartão 3 → posição 0",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  1
+                ],
+                "yPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "p1n",
+            "name": "Névoa 3 → 0%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "431cfcc4-1d13-fda5-d713-feab5e035243"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2c",
+            "name": "Cartão 4 → posição 1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.95
+                ],
+                "yPercent": [
+                  null,
+                  -5
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2n",
+            "name": "Névoa 4 → 18%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "7e327959-dacf-2fb6-7be3-eb63d3141d13"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "18%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p3c",
+            "name": "Cartão 5 → posição 2",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.9
+                ],
+                "yPercent": [
+                  null,
+                  -10
+                ]
+              }
+            }
+          },
+          {
+            "id": "p3n",
+            "name": "Névoa 5 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "171826c4-6f30-f50f-1a8e-3ce08998d21a"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-fbf252ac",
+    "name": "Baralho · avançar do cartão 3",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:click",
+        "config": {
+          "control": "restart"
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-9f983603",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "sai",
+            "name": "Cartão 3 sai",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "yPercent": [
+                  null,
+                  35
+                ]
+              }
+            }
+          },
+          {
+            "id": "some",
+            "name": "Cartão 3 sai da pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "2d846f58-30d7-d3af-3987-f66adf8aa6d9"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.9
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "none"
+              }
+            }
+          },
+          {
+            "id": "p1c",
+            "name": "Cartão 4 → posição 0",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  1
+                ],
+                "yPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "p1n",
+            "name": "Névoa 4 → 0%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "7e327959-dacf-2fb6-7be3-eb63d3141d13"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2c",
+            "name": "Cartão 5 → posição 1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.95
+                ],
+                "yPercent": [
+                  null,
+                  -5
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2n",
+            "name": "Névoa 5 → 18%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "171826c4-6f30-f50f-1a8e-3ce08998d21a"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "18%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p3c",
+            "name": "Cartão 6 → posição 2",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "cb9818d3-3317-8077-1766-4905e81ea581"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.9
+                ],
+                "yPercent": [
+                  null,
+                  -10
+                ]
+              }
+            }
+          },
+          {
+            "id": "p3n",
+            "name": "Névoa 6 → 36%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "08d77eda-bab9-b701-c9cc-16d392c666b1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "36%"
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-3a5fb9f4",
+    "name": "Baralho · avançar do cartão 4",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:click",
+        "config": {
+          "control": "restart"
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-03d3f589",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "sai",
+            "name": "Cartão 4 sai",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "yPercent": [
+                  null,
+                  35
+                ]
+              }
+            }
+          },
+          {
+            "id": "some",
+            "name": "Cartão 4 sai da pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "5a727f23-9c4d-ea25-e0b2-0de541f6cbdb"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.9
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "none"
+              }
+            }
+          },
+          {
+            "id": "p1c",
+            "name": "Cartão 5 → posição 0",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  1
+                ],
+                "yPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "p1n",
+            "name": "Névoa 5 → 0%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "171826c4-6f30-f50f-1a8e-3ce08998d21a"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2c",
+            "name": "Cartão 6 → posição 1",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "cb9818d3-3317-8077-1766-4905e81ea581"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  0.95
+                ],
+                "yPercent": [
+                  null,
+                  -5
+                ]
+              }
+            }
+          },
+          {
+            "id": "p2n",
+            "name": "Névoa 6 → 18%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "08d77eda-bab9-b701-c9cc-16d392c666b1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "18%"
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "i-3b60edcd",
+    "name": "Baralho · avançar do cartão 5",
+    "pageId": "6ac51aba0b441e87266dd191",
+    "scope": {
+      "type": "pages",
+      "value": [
+        "6ac51aba0b441e87266dd191"
+      ]
+    },
+    "triggers": [
+      {
+        "extensionKey": "wf:click",
+        "config": {
+          "control": "restart"
+        },
+        "target": {
+          "extensionKey": "wf:inst",
+          "value": [
+            "6ac51aba0b441e87266dd191",
+            "01134dde-3bd5-b60b-d327-4725a61dadaf"
+          ],
+          "filterContext": {
+            "relationship": "none",
+            "filterBy": [
+              "wf:class",
+              []
+            ],
+            "firstMatchOnly": false
+          }
+        }
+      }
+    ],
+    "timelines": [
+      {
+        "id": "t-72dc1a1e",
+        "pageId": "6ac51aba0b441e87266dd191",
+        "actions": [
+          {
+            "id": "sai",
+            "name": "Cartão 5 sai",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 9
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ],
+                "yPercent": [
+                  null,
+                  35
+                ]
+              }
+            }
+          },
+          {
+            "id": "some",
+            "name": "Cartão 5 sai da pilha",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "01134dde-3bd5-b60b-d327-4725a61dadaf"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0,
+              "position": 0.9
+            },
+            "tt": 3,
+            "properties": {
+              "wf:transform": {
+                "display": "none"
+              }
+            }
+          },
+          {
+            "id": "p1c",
+            "name": "Cartão 6 → posição 0",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "cb9818d3-3317-8077-1766-4905e81ea581"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "100%"
+                ],
+                "scale": [
+                  null,
+                  1
+                ],
+                "yPercent": [
+                  null,
+                  0
+                ]
+              }
+            }
+          },
+          {
+            "id": "p1n",
+            "name": "Névoa 6 → 0%",
+            "targets": [
+              {
+                "extensionKey": "wf:inst",
+                "value": [
+                  "6ac51aba0b441e87266dd191",
+                  "08d77eda-bab9-b701-c9cc-16d392c666b1"
+                ],
+                "filterContext": {
+                  "relationship": "none",
+                  "filterBy": [
+                    "wf:class",
+                    []
+                  ],
+                  "firstMatchOnly": false
+                }
+              }
+            ],
+            "timing": {
+              "duration": 0.9,
+              "position": 0,
+              "ease": 26
+            },
+            "properties": {
+              "wf:transform": {
+                "opacity": [
+                  null,
+                  "0%"
+                ]
+              }
+            }
+          }
+        ],
+        "version": 1
+      }
+    ],
+    "conditionalPlayback": [
+      {
+        "type": "prefers-reduced-motion",
+        "behavior": "skip-to-end",
+        "breakpoints": []
+      }
+    ],
+    "version": 2
+  }
+]

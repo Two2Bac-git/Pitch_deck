@@ -1,0 +1,35 @@
+{
+  "id": "6ac51ab80b441e87266dd184",
+  "workspaceId": "6ac4ccab0c5197410b430c44",
+  "displayName": "TW2",
+  "shortName": "tw2-accf04",
+  "previewUrl": "https://screenshots.webflow.com/sites/6ac51ab80b441e87266dd184/20261007150415_bef21bd53918ae76ca17c7a05818e9ef.png",
+  "timeZone": "America/Bahia",
+  "createdOn": "2026-10-06T15:58:48.571Z",
+  "lastUpdated": "2026-10-07T15:06:47.786Z",
+  "lastPublished": "2026-10-07T15:06:47.606Z",
+  "fullSiteCompiledAt": "2026-10-07T15:06:47.606Z",
+  "customDomains": [],
+  "locales": {
+    "primary": {
+      "id": "6ac65c8d22897608654377ed",
+      "enabled": false,
+      "displayName": "Portuguese",
+      "redirect": true,
+      "subdirectory": "",
+      "tag": "pt"
+    },
+    "secondary": [
+      {
+        "id": "6ac65d798b16946d11c22f9d",
+        "enabled": false,
+        "displayName": "English (United States)",
+        "subdirectory": "en-us",
+        "tag": "en-US"
+      }
+    ]
+  },
+  "dataCollectionEnabled": false,
+  "dataCollectionType": "always",
+  "googleTagIds": []
+}

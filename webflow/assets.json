@@ -1,0 +1,180 @@
+[
+  {
+    "id": "6ac593ce6b0c752a85f1c7f2",
+    "originalFileName": "6ac593ce6b0c752a85f1c7f2_retrato-andrey-tw.webp",
+    "displayName": "retrato-andrey-tw.webp",
+    "contentType": "image/webp",
+    "size": 0,
+    "siteId": "6ac51ab80b441e87266dd184",
+    "createdOn": "2026-10-07T00:35:26.264Z",
+    "lastUpdated": "2026-10-07T00:40:08.231Z",
+    "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac593ce6b0c752a85f1c7f2_retrato-andrey-tw.webp",
+    "variants": [
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac593ce6b0c752a85f1c7f2_retrato-andrey-tw-p-500.webp",
+        "originalFileName": "retrato-andrey-tw-p-500.webp",
+        "displayName": "6ac593ce6b0c752a85f1c7f2_retrato-andrey-tw-p-500.webp",
+        "format": "webp",
+        "width": 500,
+        "height": null,
+        "quality": 100,
+        "error": null
+      }
+    ],
+    "altText": null,
+    "folderId": null
+  },
+  {
+    "id": "6ac55ff28113aa95dfe528b2",
+    "originalFileName": "6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920.jpg",
+    "displayName": "friedrich-andarilho-1920.jpg",
+    "contentType": "image/jpeg",
+    "size": 0,
+    "siteId": "6ac51ab80b441e87266dd184",
+    "createdOn": "2026-10-06T20:54:10.138Z",
+    "lastUpdated": "2026-10-06T21:07:28.804Z",
+    "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920.jpg",
+    "variants": [
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-500.jpg",
+        "originalFileName": "friedrich-andarilho-1920-p-500.jpg",
+        "displayName": "6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-500.jpg",
+        "format": "jpg",
+        "width": 500,
+        "height": null,
+        "quality": 100,
+        "error": null
+      },
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-800.jpg",
+        "originalFileName": "friedrich-andarilho-1920-p-800.jpg",
+        "displayName": "6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-800.jpg",
+        "format": "jpg",
+        "width": 800,
+        "height": null,
+        "quality": 100,
+        "error": null
+      },
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-1080.jpg",
+        "originalFileName": "friedrich-andarilho-1920-p-1080.jpg",
+        "displayName": "6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-1080.jpg",
+        "format": "jpg",
+        "width": 1080,
+        "height": null,
+        "quality": 100,
+        "error": null
+      },
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-1600.jpg",
+        "originalFileName": "friedrich-andarilho-1920-p-1600.jpg",
+        "displayName": "6ac55ff28113aa95dfe528b2_friedrich-andarilho-1920-p-1600.jpg",
+        "format": "jpg",
+        "width": 1600,
+        "height": null,
+        "quality": 100,
+        "error": null
+      }
+    ],
+    "altText": "Caspar David Friedrich, Andarilho sobre o mar de névoa (c. 1818): figura de costas no cume, olhando a névoa",
+    "folderId": null
+  },
+  {
+    "id": "6ac5555d910e58ce4d85efd9",
+    "originalFileName": "6ac5555d910e58ce4d85efd9_a-queda.jpg",
+    "displayName": "a-queda.jpg",
+    "contentType": "image/jpeg",
+    "size": 0,
+    "siteId": "6ac51ab80b441e87266dd184",
+    "createdOn": "2026-10-06T20:09:01.369Z",
+    "lastUpdated": "2026-10-06T20:33:53.676Z",
+    "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac5555d910e58ce4d85efd9_a-queda.jpg",
+    "variants": [
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac5555d910e58ce4d85efd9_a-queda-p-500.jpg",
+        "originalFileName": "a-queda-p-500.jpg",
+        "displayName": "6ac5555d910e58ce4d85efd9_a-queda-p-500.jpg",
+        "format": "jpg",
+        "width": 500,
+        "height": null,
+        "quality": 100,
+        "error": null
+      }
+    ],
+    "altText": "A Queda: figura de camisa clara caindo na água teal, com luz vinda de cima",
+    "folderId": null
+  },
+  {
+    "id": "6ac522a4b40d2b8ad9f8607e",
+    "originalFileName": "6ac522a4b40d2b8ad9f8607e_tw-oculos-aro-frio.svg",
+    "displayName": "tw-oculos-aro-frio.svg",
+    "contentType": "image/svg+xml",
+    "size": 0,
+    "siteId": "6ac51ab80b441e87266dd184",
+    "createdOn": "2026-10-06T16:32:36.072Z",
+    "lastUpdated": "2026-10-06T20:07:12.042Z",
+    "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a4b40d2b8ad9f8607e_tw-oculos-aro-frio.svg",
+    "variants": [],
+    "altText": null,
+    "folderId": null
+  },
+  {
+    "id": "6ac522a3b40d2b8ad9f8604c",
+    "originalFileName": "6ac522a3b40d2b8ad9f8604c_tw-oculos-aro-ouro.svg",
+    "displayName": "tw-oculos-aro-ouro.svg",
+    "contentType": "image/svg+xml",
+    "size": 0,
+    "siteId": "6ac51ab80b441e87266dd184",
+    "createdOn": "2026-10-06T16:32:35.929Z",
+    "lastUpdated": "2026-10-06T20:07:12.044Z",
+    "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a3b40d2b8ad9f8604c_tw-oculos-aro-ouro.svg",
+    "variants": [],
+    "altText": null,
+    "folderId": null
+  },
+  {
+    "id": "6ac522a3ed7029c5b714441d",
+    "originalFileName": "6ac522a3ed7029c5b714441d_busto-tw-luz-baixa.webp",
+    "displayName": "busto-tw-luz-baixa.webp",
+    "contentType": "image/webp",
+    "size": 0,
+    "siteId": "6ac51ab80b441e87266dd184",
+    "createdOn": "2026-10-06T16:32:35.758Z",
+    "lastUpdated": "2026-10-06T20:07:13.788Z",
+    "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a3ed7029c5b714441d_busto-tw-luz-baixa.webp",
+    "variants": [
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a3ed7029c5b714441d_busto-tw-luz-baixa-p-500.webp",
+        "originalFileName": "busto-tw-luz-baixa-p-500.webp",
+        "displayName": "6ac522a3ed7029c5b714441d_busto-tw-luz-baixa-p-500.webp",
+        "format": "webp",
+        "width": 500,
+        "height": null,
+        "quality": 100,
+        "error": null
+      },
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a3ed7029c5b714441d_busto-tw-luz-baixa-p-800.webp",
+        "originalFileName": "busto-tw-luz-baixa-p-800.webp",
+        "displayName": "6ac522a3ed7029c5b714441d_busto-tw-luz-baixa-p-800.webp",
+        "format": "webp",
+        "width": 800,
+        "height": null,
+        "quality": 100,
+        "error": null
+      },
+      {
+        "hostedUrl": "https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a3ed7029c5b714441d_busto-tw-luz-baixa-p-1080.webp",
+        "originalFileName": "busto-tw-luz-baixa-p-1080.webp",
+        "displayName": "6ac522a3ed7029c5b714441d_busto-tw-luz-baixa-p-1080.webp",
+        "format": "webp",
+        "width": 1080,
+        "height": null,
+        "quality": 100,
+        "error": null
+      }
+    ],
+    "altText": "Busto de mármore em luz baixa, com óculos dourados e louro",
+    "folderId": null
+  }
+]

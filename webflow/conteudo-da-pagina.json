@@ -1,0 +1,522 @@
+{
+  "pageId": "6ac51aba0b441e87266dd191",
+  "nodes": [
+    {
+      "type": "image",
+      "id": "8a566020-03ba-83ef-2d84-65f48d696506",
+      "image": {
+        "alt": "A Queda: figura de camisa clara caindo na água teal, com luz vinda de cima",
+        "assetId": "6ac5555d910e58ce4d85efd9"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "6333e5e9-630a-d9ec-1481-d0f0f0cad079",
+      "text": {
+        "html": "<div class=\"bolhas\"><span class=\"bolha is-b1\" data-w-id=\"6333e5e9-630a-d9ec-1481-d0f0f0cad074\"></span><span class=\"bolha is-b2\" data-w-id=\"6333e5e9-630a-d9ec-1481-d0f0f0cad075\"></span><span class=\"bolha is-b3\" data-w-id=\"6333e5e9-630a-d9ec-1481-d0f0f0cad076\"></span><span class=\"bolha is-b4\" data-w-id=\"6333e5e9-630a-d9ec-1481-d0f0f0cad077\"></span><span class=\"bolha is-b5\" data-w-id=\"6333e5e9-630a-d9ec-1481-d0f0f0cad078\"></span></div>",
+        "text": ""
+      },
+      "attributes": {
+        "aria-hidden": "true"
+      }
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a131f",
+      "text": {
+        "html": "<div class=\"assinatura\"><img src=\"https://s3.amazonaws.com/webflow-prod-assets/6ac51ab80b441e87266dd184/6ac522a3b40d2b8ad9f8604c_tw-oculos-aro-ouro.svg\" loading=\"lazy\" width=\"auto\" height=\"auto\" alt=\"__wf_reserved_inherit\" class=\"sinal\" data-w-id=\"c7e75ac5-1f90-d809-e793-25bd1c6d34cc\"><span class=\"logo\" data-w-id=\"52fd0632-dc89-a41e-64e7-ad41d99a131e\">TW</span></div>",
+        "text": "TW"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "c7e75ac5-1f90-d809-e793-25bd1c6d34cc",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a3b40d2b8ad9f8604c"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1321",
+      "text": {
+        "html": "<a class=\"nav-link\" href=\"#pitch\">Pitch</a>",
+        "text": "Pitch"
+      },
+      "attributes": {
+        "href": "#pitch"
+      }
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1323",
+      "text": {
+        "html": "<a class=\"nav-link\" href=\"#oficio\">Ofício</a>",
+        "text": "Ofício"
+      },
+      "attributes": {
+        "href": "#oficio"
+      }
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1325",
+      "text": {
+        "html": "<a class=\"nav-link\" href=\"#contato\">Contato</a>",
+        "text": "Contato"
+      },
+      "attributes": {
+        "href": "#contato"
+      }
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1329",
+      "text": {
+        "html": "<div class=\"kicker\">Superteam | Colosseum 2026</div>",
+        "text": "Superteam | Colosseum 2026"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a132b",
+      "text": {
+        "html": "<p class=\"frase-fantasma\">“Tá sem grana?”</p>",
+        "text": "“Tá sem grana?”"
+      },
+      "attributes": {
+        "aria-hidden": "true"
+      }
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a132f",
+      "text": {
+        "html": "<h1 class=\"display-1 is-hero\">Edtech <em data-w-id=\"52fd0632-dc89-a41e-64e7-ad41d99a132e\">à Renascença.</em></h1>",
+        "text": "Edtech à Renascença."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1333",
+      "text": {
+        "html": "<p class=\"corpo-l suave\">Para economizar no bolso de seus gastos mensais: uma tecnologia em infra agêntica, adequando sua operação à criação e à inovação. Por isso, a Renascença.</p>",
+        "text": "Para economizar no bolso de seus gastos mensais: uma tecnologia em infra agêntica, adequando sua operação à criação e à inovação. Por isso, a Renascença."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1335",
+      "text": {
+        "html": "<a class=\"botao-luz\" href=\"#pitch\">Abrir o pitch<div class=\"reflexo\" data-w-id=\"1ed90a04-c5dd-f37e-a127-963e003977ed\"></div></a>",
+        "text": "Abrir o pitch"
+      },
+      "attributes": {
+        "href": "#pitch"
+      }
+    },
+    {
+      "type": "text",
+      "id": "52fd0632-dc89-a41e-64e7-ad41d99a1337",
+      "text": {
+        "html": "<a class=\"botao-nevoa\" href=\"#oficio\">Ver como foi feito</a>",
+        "text": "Ver como foi feito"
+      },
+      "attributes": {
+        "href": "#oficio"
+      }
+    },
+    {
+      "type": "text",
+      "id": "43fd7dba-9b4b-367d-6679-2f5b745f4526",
+      "text": {
+        "html": "<div class=\"rotulo\">01 · Frases</div>",
+        "text": "01 · Frases"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "625602bc-ef55-b8cd-5140-8444750d5b29",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a3b40d2b8ad9f8604c"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "ad9d752d-d559-cbb7-6139-17a1fa360ade",
+      "text": {
+        "html": "<h3 class=\"titulo-3\"><em data-w-id=\"ad9d752d-d559-cbb7-6139-17a1fa360ad7\">“Tá sem grana?”</em><br data-w-id=\"ad9d752d-d559-cbb7-6139-17a1fa360ad8\"><em data-w-id=\"ad9d752d-d559-cbb7-6139-17a1fa360ada\">“Muito complexo, né?”</em><br data-w-id=\"ad9d752d-d559-cbb7-6139-17a1fa360adb\"><em data-w-id=\"ad9d752d-d559-cbb7-6139-17a1fa360add\">“Time não acompanha?”</em></h3>",
+        "text": "“Tá sem grana?”\n“Muito complexo, né?”\n“Time não acompanha?”"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "43fd7dba-9b4b-367d-6679-2f5b745f452c",
+      "text": {
+        "html": "<p class=\"corpo suave\">Essas perguntas te botaram pra refletir? Não precisa mais pensar.</p>",
+        "text": "Essas perguntas te botaram pra refletir? Não precisa mais pensar."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "c73c2ebc-394d-883f-4a0d-17a38d3974f3",
+      "text": {
+        "html": "<div class=\"rotulo\">02 · Problema</div>",
+        "text": "02 · Problema"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "b2c124b9-4b17-2d7d-adf0-e670bcedf9fc",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a3b40d2b8ad9f8604c"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "c73c2ebc-394d-883f-4a0d-17a38d3974f8",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">Quando a escala aumenta, <em data-w-id=\"c73c2ebc-394d-883f-4a0d-17a38d3974f7\">a confusão emana da operação.</em></h3>",
+        "text": "Quando a escala aumenta, a confusão emana da operação."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "c73c2ebc-394d-883f-4a0d-17a38d3974fa",
+      "text": {
+        "html": "<p class=\"corpo suave\">Então a TW é simples!</p>",
+        "text": "Então a TW é simples!"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "2d846f58-30d7-d3af-3987-f66adf8aa6cf",
+      "text": {
+        "html": "<div class=\"rotulo\">03 · A TW</div>",
+        "text": "03 · A TW"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "2b90e57d-a146-1e3c-5068-270577f93027",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a3b40d2b8ad9f8604c"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "2d846f58-30d7-d3af-3987-f66adf8aa6d6",
+      "text": {
+        "html": "<h3 class=\"titulo-3 com-busto is-grupo\"><span class=\"ouro\" data-w-id=\"2d846f58-30d7-d3af-3987-f66adf8aa6d2\">TW</span>: uma revolução <em data-w-id=\"2d846f58-30d7-d3af-3987-f66adf8aa6d5\">contemporânea.</em></h3>",
+        "text": "TW: uma revolução contemporânea."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "2d846f58-30d7-d3af-3987-f66adf8aa6d8",
+      "text": {
+        "html": "<p class=\"corpo suave com-busto\">Educação, tecnologia e mais dinheiro no bolso, isso com uma única infraestrutura.</p>",
+        "text": "Educação, tecnologia e mais dinheiro no bolso, isso com uma única infraestrutura."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "592132a8-b0c5-a312-1fec-c407a73c8a79",
+      "image": {
+        "alt": "Busto de mármore em luz baixa, com óculos dourados e louro",
+        "assetId": "6ac522a3ed7029c5b714441d"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd3",
+      "text": {
+        "html": "<div class=\"rotulo\">04 · Como funciona</div>",
+        "text": "04 · Como funciona"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "6231bca3-a619-55df-a75f-fe8f2b2b8056",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a3b40d2b8ad9f8604c"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "5a727f23-9c4d-ea25-e0b2-0de541f6cbd8",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">Qualquer sistema, <em data-w-id=\"5a727f23-9c4d-ea25-e0b2-0de541f6cbd7\">qualquer indústria.</em></h3>",
+        "text": "Qualquer sistema, qualquer indústria."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "5a727f23-9c4d-ea25-e0b2-0de541f6cbda",
+      "text": {
+        "html": "<p class=\"corpo suave\">Análise → Infra → Método = Avanço 🚀</p>",
+        "text": "Análise → Infra → Método = Avanço 🚀"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "01134dde-3bd5-b60b-d327-4725a61dada7",
+      "text": {
+        "html": "<div class=\"rotulo\">05 · Mercado e modelo</div>",
+        "text": "05 · Mercado e modelo"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "47acfdc3-986d-0037-2e9d-9c3797bb0a50",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a4b40d2b8ad9f8607e"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "01134dde-3bd5-b60b-d327-4725a61dadac",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">Potencial e <em data-w-id=\"01134dde-3bd5-b60b-d327-4725a61dadab\">alcances elevados.</em></h3>",
+        "text": "Potencial e alcances elevados."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "01134dde-3bd5-b60b-d327-4725a61dadae",
+      "text": {
+        "html": "<p class=\"corpo suave\">SOM = US$ 30 milhões | Contrato e parcerias 🤝🏽</p>",
+        "text": "SOM = US$ 30 milhões | Contrato e parcerias 🤝🏽"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "cb9818d3-3317-8077-1766-4905e81ea572",
+      "text": {
+        "html": "<div class=\"rotulo\">06 · O pedido</div>",
+        "text": "06 · O pedido"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "8a3fbec6-fcea-1cfe-17b8-fd6744bdb48d",
+      "image": {
+        "alt": "__wf_reserved_inherit",
+        "assetId": "6ac522a4b40d2b8ad9f8607e"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "cb9818d3-3317-8077-1766-4905e81ea577",
+      "text": {
+        "html": "<h3 class=\"titulo-3 com-busto\">Potencial ilimitado <em data-w-id=\"cb9818d3-3317-8077-1766-4905e81ea576\">à vista!</em></h3>",
+        "text": "Potencial ilimitado à vista!"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "b95bf0c7-7d2f-8b20-9ff0-07c23a025143",
+      "image": {
+        "alt": "Retrato de Andrey Bacelar, fundador da TW, em desenho a lápis",
+        "assetId": "6ac593ce6b0c752a85f1c7f2"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "cb9818d3-3317-8077-1766-4905e81ea57b",
+      "text": {
+        "html": "<p class=\"corpo suave\">Para quem quer reconhecer esta ideia e tornar real a primeira infra numa empresa.</p>",
+        "text": "Para quem quer reconhecer esta ideia e tornar real a primeira infra numa empresa."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "cb9818d3-3317-8077-1766-4905e81ea57d",
+      "text": {
+        "html": "<a class=\"botao-luz\" href=\"tel:+5571991123987\">Falar com a TW<div class=\"reflexo\" data-w-id=\"b8efe476-9a2a-d2b8-c07d-e3d7a3382801\"></div></a>",
+        "text": "Falar com a TW"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "cb9818d3-3317-8077-1766-4905e81ea57f",
+      "text": {
+        "html": "<a class=\"botao-texto\" href=\"#pitch\">Recomeçar</a>",
+        "text": "Recomeçar"
+      },
+      "attributes": {
+        "href": "#pitch"
+      }
+    },
+    {
+      "type": "text",
+      "id": "fb0e0b75-37e1-609c-1a72-65365b3c57a6",
+      "text": {
+        "html": "<p class=\"dica\">Clique no cartão para avançar</p>",
+        "text": "Clique no cartão para avançar"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdce0",
+      "text": {
+        "html": "<h2 class=\"display-2\">Como esta página <em data-w-id=\"b184e549-70f6-c05c-0e5d-473710cbdcdf\">foi pintada.</em></h2>",
+        "text": "Como esta página foi pintada."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdce2",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">Cor medida, não escolhida.</h3>",
+        "text": "Cor medida, não escolhida."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdce4",
+      "text": {
+        "html": "<p class=\"corpo\">Cada cor saiu de cinco obras de referência e foi medida por dois algoritmos independentes. Sombras e névoa caem num único eixo de matiz, entre 271° e 338°.</p>",
+        "text": "Cada cor saiu de cinco obras de referência e foi medida por dois algoritmos independentes. Sombras e névoa caem num único eixo de matiz, entre 271° e 338°."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdce7",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">Branco com orçamento.</h3>",
+        "text": "Branco com orçamento."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdce9",
+      "text": {
+        "html": "<p class=\"corpo\">Nas pinturas escuras de referência, o branco ocupa menos de 1% da tela (0,81% e 0,63%).</p>",
+        "text": "Nas pinturas escuras de referência, o branco ocupa menos de 1% da tela (0,81% e 0,63%)."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdcec",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">A luz se move; o mármore fica.</h3>",
+        "text": "A luz se move; o mármore fica."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdcee",
+      "text": {
+        "html": "<p class=\"corpo\">Cinco famílias de movimento: névoa, correnteza, pincelada, luz rasante e ascensão. Nada quica, nada gira.</p>",
+        "text": "Cinco famílias de movimento: névoa, correnteza, pincelada, luz rasante e ascensão. Nada quica, nada gira."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdcf1",
+      "text": {
+        "html": "<h3 class=\"titulo-3\">Feito em Webflow.</h3>",
+        "text": "Feito em Webflow."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "b184e549-70f6-c05c-0e5d-473710cbdcf3",
+      "text": {
+        "html": "<p class=\"corpo\">Variables com modes: uma altitude por seção e por cartão. Interactions com GSAP para texto, reflexo e névoa. Um script curto para o baralho.</p>",
+        "text": "Variables com modes: uma altitude por seção e por cartão. Interactions com GSAP para texto, reflexo e névoa. Um script curto para o baralho."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "image",
+      "id": "7d28cab7-53c4-63f6-c642-fe4c7d25b1fc",
+      "image": {
+        "alt": "Caspar David Friedrich, Andarilho sobre o mar de névoa (c. 1818): figura de costas no cume, olhando a névoa",
+        "assetId": "6ac55ff28113aa95dfe528b2"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "14c31a10-0c4e-b3d2-270a-6270d8fe63fd",
+      "text": {
+        "html": "<h2 class=\"display-2\">Vamos <em data-w-id=\"14c31a10-0c4e-b3d2-270a-6270d8fe63fc\">conversar.</em></h2>",
+        "text": "Vamos conversar."
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "14c31a10-0c4e-b3d2-270a-6270d8fe6400",
+      "text": {
+        "html": "<p class=\"corpo-l suave\">A TW é aberta a todos!</p>",
+        "text": "A TW é aberta a todos!"
+      },
+      "attributes": {}
+    },
+    {
+      "type": "text",
+      "id": "14c31a10-0c4e-b3d2-270a-6270d8fe6402",
+      "text": {
+        "html": "<a class=\"botao-luz\" href=\"tel:+5571991123987\">Falar com a TW<div class=\"reflexo\" data-w-id=\"f2f7549f-6e3b-179e-3fad-6879f04d01f5\"></div></a>",
+        "text": "Falar com a TW"
+      },
+      "attributes": {}
+    }
+  ],
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "total": 55
+  },
+  "lastUpdated": "2026-10-07T15:06:36.599Z"
+}
