@@ -55,7 +55,8 @@
     "o4_corpo": "Variables com modes: uma altitude por seção e por cartão. Interactions com GSAP para texto, reflexo e névoa. Um script curto para o baralho.",
     "alt_friedrich": "Caspar David Friedrich, Andarilho sobre o mar de névoa (c. 1818): figura de costas no cume, olhando a névoa",
     "cume_titulo": "Vamos <em>conversar.</em>",
-    "convite": "A TW é aberta a todos!"
+    "convite": "A TW é aberta a todos!",
+    "wa_texto": "Ol%C3%A1%2C%20Andrey%21%20Vi%20o%20pitch%20da%20TW%20e%20quero%20conversar."
   },
   "en": {
     "lang": "en",
@@ -113,6 +114,7 @@
     "o4_corpo": "Variables with modes: one altitude per section and per card. GSAP-powered Interactions for text, reflection and mist. A short script for the deck.",
     "alt_friedrich": "Caspar David Friedrich, Wanderer above the Sea of Fog (c. 1818): a figure seen from behind on the summit, looking out at the mist",
     "cume_titulo": "Let’s <em>talk.</em>",
-    "convite": "TW is open to everyone!"
+    "convite": "TW is open to everyone!",
+    "wa_texto": "Hi%20Andrey%21%20I%20saw%20the%20TW%20pitch%20and%20would%20like%20to%20talk."
   }
 }
